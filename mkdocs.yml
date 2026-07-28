@@ -19,6 +19,9 @@ theme:
     - search.highlight     # Highlights search results on the page
     - content.code.copy    # Adds a copy button to code blocks
 
+  extensions:
+    - attr_list
+
 nav:
   - Home: index.md
   - About: about.md
