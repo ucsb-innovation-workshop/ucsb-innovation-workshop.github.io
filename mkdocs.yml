@@ -4,20 +4,19 @@ site_description: Equipment SOPs, Safety, and Guides for CNSI Workshops
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: blue
-      accent: deep orange
-    - scheme: slate
-      primary: blue
-      accent: deep orange
-      toggle:
-        icon: material/brightness-4
-        name: Switch to dark mode
+      scheme: slate
+      primary: indigo
+      accent: cyan
+      
   features:
-    - navigation.indexes
-    - navigation.sections
-    - search.suggest
-    - search.highlight
+    - navigation.instant   # Fast page loading without full reloads
+    - navigation.tracking  # Updates URL hash as you scroll through headings
+    - navigation.tabs      # Displays top-level navigation as tabs
+    - navigation.sections  # Groups sidebar items under sections
+    - navigation.top       # Adds a "Back to top" button
+    - search.suggest       # Auto-completes search terms
+    - search.highlight     # Highlights search results on the page
+    - content.code.copy    # Adds a copy button to code blocks
 
 nav:
   - Home: index.md
@@ -44,5 +43,5 @@ nav:
           - Plasma Chamber: tools/polymer-casting/plasma.md
           - UV Ozone Chamber: tools/polymer-casting/uv-ozone.md
           - Convection Ovens: tools/polymer-casting/ovens.md
-  - Lab Safety: lab-safety.md
+  - Lab Safety: safety.md
   - Contact & People: people.md
