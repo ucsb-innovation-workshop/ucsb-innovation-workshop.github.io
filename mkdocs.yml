@@ -8,6 +8,8 @@ theme:
       scheme: slate
       primary: teal
       accent: orange
+
+  toc: false
       
   features:
     - navigation.instant   # Fast page loading without full reloads
