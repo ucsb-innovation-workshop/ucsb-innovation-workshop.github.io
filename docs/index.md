@@ -1,6 +1,7 @@
 # Welcome to the Innovation Workshop
 
-![Innovation Workshop Logo](assets/IW-logo.png){width="300"}
+
+<img src="assets/IW-logo.png" alt="IW Short Logo, by Remy Wong" width="300" />
 
 The CNSI Innovation Workshop is comprised of facilities in **Elings 3430** and **Elings 2442**.
 
