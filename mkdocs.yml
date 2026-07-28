@@ -5,13 +5,13 @@ theme:
   name: material
   palette:
       scheme: slate
-      primary: indigo
-      accent: cyan
+      primary: teal
+      accent: orange
       
   features:
     - navigation.instant   # Fast page loading without full reloads
     - navigation.tracking  # Updates URL hash as you scroll through headings
-    - navigation.tabs      # Displays top-level navigation as tabs
+    #- navigation.tabs      # Displays top-level navigation as tabs
     - navigation.sections  # Groups sidebar items under sections
     - navigation.top       # Adds a "Back to top" button
     - search.suggest       # Auto-completes search terms
