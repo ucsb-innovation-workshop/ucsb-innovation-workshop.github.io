@@ -23,11 +23,26 @@ nav:
   - Home: index.md
   - About: about.md
   - Access & Training: access-and-training.md
-  - Tools & Specs:
+  - Tool Pages:
       - 3D Printing:
-          - Bambu Lab: tools/3d-printing/bambu-lab.md
-          - Form 4 Resin: tools/3d-printing/form4.md
+          - Bambu X1C: tools/3d-printing/bambu-x1c.md
+          - Bambu H2D: tools/3d-printing/bambu-h2d.md
+          - Form 4: tools/3d-printing/form4.md
+          - Form 3: tools/3d-printing/form3.md
       - Machining:
-          - CNC Glass/Silicon: tools/machining/cnc-cutter.md
+          - Haas CNC Super Mini Mill: tools/machining/haas.md
+          - Vertical Mill: tools/machining/mill.md
+          - Lathe: tools/machining/lathe.md
+          - Drill Press: tools/machining/drill-press.md
+          - Band Saw: tools/machining/band-saw.md
+          - Wazer Waterjet: tools/machining/wazer/md
+          - ThunderLaser Nova 35: tools/machining/laser-cutter.md
+      - Polymer Casting:
+          - Thinky Planetary Mixer: tools/polymer-casting/thinky.md
+          - Silanization Chamber: tools/polymer-casting/silane.md
+          - Vacuum Chambers: tools/polymer-casting/vacuum-chambers.md
+          - Plasma Chamber: tools/polymer-casting/plasma.md
+          - UV Ozone Chamber: tools/polymer-casting/uv-ozone.md
+          - Convection Ovens: tools/polymer-casting/ovens.md
   - Lab Safety: lab-safety.md
   - Contact & People: people.md
