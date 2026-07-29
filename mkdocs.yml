@@ -3,7 +3,6 @@ site_description: Equipment SOPs, Safety, and Guides for CNSI Workshops
 
 theme:
   name: material
-  #logo: assets/IW-logo.png
   palette:
       scheme: slate
       primary: teal
@@ -18,12 +17,8 @@ theme:
     - search.suggest       # Auto-completes search terms
     - search.highlight     # Highlights search results on the page
     - content.code.copy    # Adds a copy button to code blocks
+    - toc.integrate        # Merges the TOC into the navigation menu
 
-  markdown_extensions:
-    - attr_list
-    - md_in_html
-    - toc: 
-        toc_depth: 0
 
 nav:
   - Home: index.md
