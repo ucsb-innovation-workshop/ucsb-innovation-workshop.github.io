@@ -24,16 +24,16 @@ We are in the process of migrating from DokuWiki to GitHub. I am hoping to compl
 
 ## Contact Information
 
-Lab Manager
+_Lab Manager_ <br>
 Brian Dincau: Elings 3205 | bdincau@ucsb.edu | (805) 724-0426
 
-Workshop Wizards
+_Workshop Wizards_ <br>
 Noelia: noeliaquintanar@ucsb.edu
 
-Remy: remywong@ucsb.edu        (Out for Summer)
-Kenneth: kennethkho@ucsb.edu   (Out for Summer)
-Marcos: marcos150@ucsb.edu     (Out for Summer)
-Ava: agraef@ucsb.edu           (Out for Summer)
+Remy: remywong@ucsb.edu        (Out for Summer) <br>
+Kenneth: kennethkho@ucsb.edu   (Out for Summer) <br>
+Marcos: marcos150@ucsb.edu     (Out for Summer) <br>
+Ava: agraef@ucsb.edu           (Out for Summer) <br>
 
 ##Feedback
 [Innovation Workshop Feedback Form](https://forms.gle/YvvXqV18izy4TumY6)
