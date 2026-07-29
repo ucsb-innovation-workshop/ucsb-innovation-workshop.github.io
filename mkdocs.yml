@@ -24,6 +24,8 @@ theme:
   extensions:
     - attr_list
     - md_in_html
+    - toc: 
+        toc_depth: 0
 
 nav:
   - Home: index.md
