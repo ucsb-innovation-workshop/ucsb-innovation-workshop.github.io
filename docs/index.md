@@ -25,7 +25,8 @@ We are in the process of migrating from DokuWiki to GitHub. I am hoping to compl
 ## Contact Information
 
 _Lab Manager_ <br>
-Brian Dincau: Elings 3205 | bdincau@ucsb.edu | (805) 724-0426
+Dr. Brian Dincau: Elings 3205 | bdincau@ucsb.edu | (805) 724-0426 <br>
+[Google Scholar](https://scholar.google.com/citations?user=WIfff18AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/briandincau/)
 
 _Workshop Wizards_ <br>
 Noelia: noeliaquintanar@ucsb.edu
