@@ -26,24 +26,24 @@ nav:
   - Access & Training: access-and-training.md
   - Tool Pages:
       - 3D Printing:
-          - Bambu X1C: tools/3d-printing/bambu-x1c.md
-          - Bambu H2D: tools/3d-printing/bambu-h2d.md
+          - Bambu X1C: tools/bambu-x1c.md
+          - Bambu H2D: tools/bambu-h2d.md
           - Form 4: tools/form4.md
-          - Form 3: tools/3d-printing/form3.md
+          - Form 3: tools/form3.md
       - Machining:
-          - Haas CNC Super Mini Mill: tools/machining/haas.md
-          - Vertical Mill: tools/machining/mill.md
-          - Lathe: tools/machining/lathe.md
-          - Drill Press: tools/machining/drill-press.md
-          - Band Saw: tools/machining/band-saw.md
-          - Wazer Waterjet: tools/machining/wazer/md
-          - ThunderLaser Nova 35: tools/machining/laser-cutter.md
+          - Haas CNC Super Mini Mill: tools/haas.md
+          - Vertical Mill: tools/mill.md
+          - Lathe: tools/lathe.md
+          - Drill Press: tools/drill-press.md
+          - Band Saw: tools/band-saw.md
+          - Wazer Waterjet: tools/wazer.md
+          - ThunderLaser Nova 35: tools/laser-cutter.md
       - Polymer Casting:
-          - Thinky Planetary Mixer: tools/polymer-casting/thinky.md
-          - Silanization Chamber: tools/polymer-casting/silane.md
-          - Vacuum Chambers: tools/polymer-casting/vacuum-chambers.md
-          - Plasma Chamber: tools/polymer-casting/plasma.md
-          - UV Ozone Chamber: tools/polymer-casting/uv-ozone.md
-          - Convection Ovens: tools/polymer-casting/ovens.md
+          - Thinky Planetary Mixer: tools/thinky.md
+          - Silanization Chamber: tools/silane.md
+          - Vacuum Chambers: tools/vacuum-chambers.md
+          - Plasma Chamber: tools/plasma.md
+          - UV Ozone Chamber: tools/uv-ozone.md
+          - Convection Ovens: tools/ovens.md
   - Lab Safety: safety.md
   - Contact & People: people.md
