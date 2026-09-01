@@ -26,9 +26,9 @@ nav:
   - Access & Training: access-and-training.md
   - Tool Pages:
       - 3D Printing:
-          - Bambu X1C: docs/tools/3d-printing/bambu-x1c.md
+          - Bambu X1C: tools/3d-printing/bambu-x1c.md
           - Bambu H2D: tools/3d-printing/bambu-h2d.md
-          - Form 4: docs/tools/form4.md
+          - Form 4: tools/form4.md
           - Form 3: tools/3d-printing/form3.md
       - Machining:
           - Haas CNC Super Mini Mill: tools/machining/haas.md
