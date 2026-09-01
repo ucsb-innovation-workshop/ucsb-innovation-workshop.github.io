@@ -100,7 +100,7 @@ Fire Extinguishers are available by the front door for each lab.
 | 70% ethanol spray | Countertop by sink | |
 | Clorox Wipes | Various locations | |
 
-## Chemicals in the Machine Hub
+## Chemicals in the Machine Hub - Elings 2442
 
 | Chemical Name | Location | SDS Link |
 | --- | --- | --- |
