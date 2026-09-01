@@ -2,6 +2,23 @@
 
 Here you can find our Chemical Inventory as well as general safety information for the Innovation Workshop and Machine Hub.
 
+## General Safety
+
+_Personal Protection Equipment_
+
+Long pants and closed-toed shoes are required at ALL times in both labs to protect oneself from physical hazards, such as sharp or heavy objects.
+
+Safety Glasses, Face Shields, Work Gloves, Earplugs, Earmuffs, Nitrile Gloves, and Dust Masks are available as needed.
+
+If you need a Lab Coat for you work, you must bring your own.
+
+_Other Safety Consideration_
+
+First Aid Kits with band aids and antiseptic are available in both labs. In 3440, they are located on the consumable rack. In 2442, they are located on top of the blue tool chest.
+
+Fire Extinguishers are available by the front door for each lab.
+
+
 ## Chemicals in the Innovation Workshop - Elings 3430
 
 | Chemical Name | Location | SDS Link |
@@ -83,7 +100,7 @@ Here you can find our Chemical Inventory as well as general safety information f
 | 70% ethanol spray | Countertop by sink | |
 | Clorox Wipes | Various locations | |
 
-# Chemicals in the Machine Hub
+## Chemicals in the Machine Hub
 
 | Chemical Name | Location | SDS Link |
 | --- | --- | --- |
