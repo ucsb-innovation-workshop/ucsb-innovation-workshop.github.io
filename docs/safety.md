@@ -1,4 +1,4 @@
-# Safety
+# Lab Safety
 
 Here you can find our Chemical Inventory as well as general safety information for the Innovation Workshop and Machine Hub.
 
