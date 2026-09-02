@@ -6,3 +6,7 @@
 .md-typeset h3 {
   color: #ff9800;
 }
+
+body {
+  background-color: purple !important;
+}
