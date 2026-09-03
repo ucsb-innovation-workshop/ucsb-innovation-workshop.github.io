@@ -12,254 +12,230 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ## From CNSI to Elings Hall
 
-<details>
-<summary>How Elings Hall and the CNSI established the foundation for shared research facilities</summary>
+??? note "How Elings Hall and the CNSI established the foundation for shared research facilities"
 
-The story begins with the creation of the California Institutes for Science and Innovation in **2000**, which included the California NanoSystems Institute at UC Santa Barbara and UCLA.
+    The story begins with the creation of the California Institutes for Science and Innovation in **2000**, which included the California NanoSystems Institute at UC Santa Barbara and UCLA.
 
-Construction of the CNSI building at UCSB began following a **2003 groundbreaking**. The planned **$53 million, 110,904-square-foot** building was designed around interdisciplinary research, with modular laboratories and shared facilities including a state-of-the-art cleanroom, imaging and spectroscopy facilities, bio-nanofabrication laboratories, and computational resources.
+    Construction of the CNSI building at UCSB began following a **2003 groundbreaking**. The planned **$53 million, 110,904-square-foot** building was designed around interdisciplinary research, with modular laboratories and shared facilities including a state-of-the-art cleanroom, imaging and spectroscopy facilities, bio-nanofabrication laboratories, and computational resources.
 
-[UCSB: UC Santa Barbara Breaks Ground on Building to House Pioneering California NanoSystems Institute](https://news.ucsb.edu/2003/011773/ucsb-break-ground-friday-building-house-pioneering-california-nanosystems-institute)
+    [UCSB: UC Santa Barbara Breaks Ground on Building to House Pioneering California NanoSystems Institute](https://news.ucsb.edu/2003/011773/ucsb-break-ground-friday-building-house-pioneering-california-nanosystems-institute)
 
-The building was subsequently named **Elings Hall** following a **$12.5 million gift from Virgil Elings and Betty Elings Wells in 2007**. The gift provided substantial support for CNSI research and helped establish the building as a long-term home for interdisciplinary science and technology at UCSB.
+    The building was subsequently named **Elings Hall** following a **$12.5 million gift from Virgil Elings and Betty Elings Wells in 2007**. The gift provided substantial support for CNSI research and helped establish the building as a long-term home for interdisciplinary science and technology at UCSB.
 
-[UCSB: UCSB Receives $12.5 Million Gift from Virgil Elings and Betty Elings Wells](https://news.ucsb.edu/2007/012271/ucsb-receives-125-million-gift-virgil-elings-and-betty-elings-wells-support-research)
+    [UCSB: UCSB Receives $12.5 Million Gift from Virgil Elings and Betty Elings Wells](https://news.ucsb.edu/2007/012271/ucsb-receives-125-million-gift-virgil-elings-and-betty-elings-wells-support-research)
 
-From the beginning, Elings Hall was intended to be more than a collection of conventional laboratories. Its shared facilities were designed to give researchers access to sophisticated equipment and expertise that would be difficult for individual research groups to maintain on their own.
+    From the beginning, Elings Hall was intended to be more than a collection of conventional laboratories. Its shared facilities were designed to give researchers access to sophisticated equipment and expertise that would be difficult for individual research groups to maintain on their own.
 
-That philosophy would eventually lead to the creation of the Microfluidics Lab and, later, the Innovation Workshop.
-
-</details>
+    That philosophy would eventually lead to the creation of the Microfluidics Lab and, later, the Innovation Workshop.
 
 ---
 
 ## The Microfluidics Lab
 
-<details>
-<summary>From cleanroom bottleneck to an accessible shared fabrication facility</summary>
+??? note "From cleanroom bottleneck to an accessible shared fabrication facility"
 
-Before the Microfluidics Lab existed, UCSB researchers working with microfluidic devices often relied on the campus cleanroom and the semiconductor and MEMS fabrication infrastructure that had developed around it.
+    Before the Microfluidics Lab existed, UCSB researchers working with microfluidic devices often relied on the campus cleanroom and the semiconductor and MEMS fabrication infrastructure that had developed around it.
 
-UCSB had a long history of semiconductor manufacturing, and during the **late 1990s and early 2000s**, that work expanded into microelectromechanical systems (MEMS). These devices could be fabricated using many of the same techniques and equipment developed for semiconductor manufacturing.
+    UCSB had a long history of semiconductor manufacturing, and during the **late 1990s and early 2000s**, that work expanded into microelectromechanical systems (MEMS). These devices could be fabricated using many of the same techniques and equipment developed for semiconductor manufacturing.
 
-As microfluidics became increasingly important across many areas of research, however, the cleanroom presented a significant barrier to experimentation.
+    As microfluidics became increasingly important across many areas of research, however, the cleanroom presented a significant barrier to experimentation.
 
-The cleanroom was extraordinarily capable, but it was not an easy environment for someone to enter simply to try an idea. There were startup costs, extensive training requirements, and restrictions on who could use the facility. According to longtime CNSI development engineer Dave Bothman, it could take approximately **six months** to learn to use the cleanroom tools safely, and undergraduates were not permitted to use the facility.
+    The cleanroom was extraordinarily capable, but it was not an easy environment for someone to enter simply to try an idea. There were startup costs, extensive training requirements, and restrictions on who could use the facility. According to longtime CNSI development engineer Dave Bothman, it could take approximately **six months** to learn to use the cleanroom tools safely, and undergraduates were not permitted to use the facility.
 
-Most microfluidics research, however, did not require a cleanroom for every step of the process.
+    Most microfluidics research, however, did not require a cleanroom for every step of the process.
 
-This created a bottleneck. Researchers who needed microfluidic devices but did not have direct access to the cleanroom sometimes relied on an informal, word-of-mouth system in which someone else would fabricate the device for them.
+    This created a bottleneck. Researchers who needed microfluidic devices but did not have direct access to the cleanroom sometimes relied on an informal, word-of-mouth system in which someone else would fabricate the device for them.
 
-It worked, but it was not particularly fast.
+    It worked, but it was not particularly fast.
 
-Recognizing this problem, Bothman suggested to CNSI administrators that UCSB establish a dedicated microfluidics laboratory in Elings Hall.
+    Recognizing this problem, Bothman suggested to CNSI administrators that UCSB establish a dedicated microfluidics laboratory in Elings Hall.
 
-[UCSB Mechanical Engineering: The Microfluidics Lab — Enabler of Experimentation](https://me.ucsb.edu/news/news/microfluidics-lab-enabler-experimentation)
+    [UCSB Mechanical Engineering: The Microfluidics Lab — Enabler of Experimentation](https://me.ucsb.edu/news/news/microfluidics-lab-enabler-experimentation)
 
-### Establishing the Microfluidics Lab
+    ### Establishing the Microfluidics Lab
 
-Around **2012**, the **Microfluidics Lab was established in Elings 3430**.
+    Around **2012**, the **Microfluidics Lab was established in Elings 3430**.
 
-The lab was deliberately conceived as an *enabling facility*. Rather than conducting a particular line of research of its own, the MFL provided researchers with the equipment and expertise needed to fabricate the physical devices required for their experiments.
+    The lab was deliberately conceived as an *enabling facility*. Rather than conducting a particular line of research of its own, the MFL provided researchers with the equipment and expertise needed to fabricate the physical devices required for their experiments.
 
-This was a significant change in the way microfluidic fabrication could be approached at UCSB.
+    This was a significant change in the way microfluidic fabrication could be approached at UCSB.
 
-Instead of:
+    Instead of:
 
-> *I need access to a cleanroom before I can even begin experimenting...*
+    > *I need access to a cleanroom before I can even begin experimenting...*
 
-researchers could increasingly approach the Microfluidics Lab with:
+    researchers could increasingly approach the Microfluidics Lab with:
 
-> *I have an idea. How can we make it?*
+    > *I have an idea. How can we make it?*
 
-By **2013**, the Microfluidics Lab was already operating as a substantial shared facility. Its equipment included tools and processes for PDMS mixing and casting, spin coating, ozone treatment, wafer bonding, microscopy, CNC cutting and drilling, and other forms of microfluidic fabrication.
+    By **2013**, the Microfluidics Lab was already operating as a substantial shared facility. Its equipment included tools and processes for PDMS mixing and casting, spin coating, ozone treatment, wafer bonding, microscopy, CNC cutting and drilling, and other forms of microfluidic fabrication.
 
-The Microfluidics Lab became an important bridge between UCSB's highly specialized nanofabrication infrastructure and the researchers who simply needed to make something and test an idea.
+    The Microfluidics Lab became an important bridge between UCSB's highly specialized nanofabrication infrastructure and the researchers who simply needed to make something and test an idea.
 
-That idea — **make sophisticated fabrication accessible to more people** — would become the foundation of the Innovation Workshop.
-
-</details>
+    That idea — **make sophisticated fabrication accessible to more people** — would become the foundation of the Innovation Workshop.
 
 ---
 
 ## The Innovation Workshop Emerges
 
-<details>
-<summary>How the Workshop grew alongside the Microfluidics Lab</summary>
+??? note "How the Workshop grew alongside the Microfluidics Lab"
 
-The Innovation Workshop grew out of the same need for accessible, shared fabrication resources.
+    The Innovation Workshop grew out of the same need for accessible, shared fabrication resources.
 
-By **2016**, CNSI documentation was already identifying the **Microfluidics Lab and Innovation Workshop** together as shared facilities, with Dave Bothman overseeing both.
+    By **2016**, CNSI documentation was already identifying the **Microfluidics Lab and Innovation Workshop** together as shared facilities, with Dave Bothman overseeing both.
 
-The two facilities had complementary purposes.
+    The two facilities had complementary purposes.
 
-The **Microfluidics Lab**, located in **Elings 3430**, focused on microfluidic fabrication and related laboratory processes. The **Innovation Workshop**, located in **Elings 2442 and 2448**, provided a more general-purpose environment for rapid prototyping and fabrication.
+    The **Microfluidics Lab**, located in **Elings 3430**, focused on microfluidic fabrication and related laboratory processes. The **Innovation Workshop**, located in **Elings 2442 and 2448**, provided a more general-purpose environment for rapid prototyping and fabrication.
 
-By this point, the Workshop was moving beyond the specialized world of microfluidics. Its purpose was broader: provide researchers, students, and emerging companies with a place where they could rapidly build, modify, and test physical ideas.
+    By this point, the Workshop was moving beyond the specialized world of microfluidics. Its purpose was broader: provide researchers, students, and emerging companies with a place where they could rapidly build, modify, and test physical ideas.
 
-Historical documentation from the period shows the Innovation Workshop containing mechanical and electronic assembly tools, a CNC router, bandsaw, drill press, laser cutter, 3D scanner, and 3D printers, while the Microfluidics Lab contained both specialized microfluidic equipment and additional fabrication tools.
+    Historical documentation from the period shows the Innovation Workshop containing mechanical and electronic assembly tools, a CNC router, bandsaw, drill press, laser cutter, 3D scanner, and 3D printers, while the Microfluidics Lab contained both specialized microfluidic equipment and additional fabrication tools.
 
-The two spaces were therefore not competing facilities. They were two expressions of the same philosophy:
+    The two spaces were therefore not competing facilities. They were two expressions of the same philosophy:
 
-> **Make fabrication accessible.**
-
-</details>
+    > **Make fabrication accessible.**
 
 ---
 
 ## The 2018 Expansion
 
-<details>
-<summary>A major expansion brought new rapid-prototyping and additive manufacturing capabilities</summary>
+??? note "A major expansion brought new rapid-prototyping and additive manufacturing capabilities"
 
-A major expansion came through **California Assembly Bill 2664**, which provided **$22 million** across the University of California system to expand innovation and entrepreneurship infrastructure.
+    A major expansion came through **California Assembly Bill 2664**, which provided **$22 million** across the University of California system to expand innovation and entrepreneurship infrastructure.
 
-At UCSB, the resulting investment helped expand the campus's innovation ecosystem and provided funding for a substantially expanded Innovation Workshop.
+    At UCSB, the resulting investment helped expand the campus's innovation ecosystem and provided funding for a substantially expanded Innovation Workshop.
 
-[UCSB: Innovation and Entrepreneurship Expansion](https://news.ucsb.edu/2018/018825/innovation-and-entrepreneurship-expansion)
+    [UCSB: Innovation and Entrepreneurship Expansion](https://news.ucsb.edu/2018/018825/innovation-and-entrepreneurship-expansion)
 
-The expanded Workshop brought together capabilities including 3D printing, laser cutting, CNC routing, electronics assembly, programming, and traditional hand tools.
+    The expanded Workshop brought together capabilities including 3D printing, laser cutting, CNC routing, electronics assembly, programming, and traditional hand tools.
 
-By **2019**, the Workshop included **seven high-end 3D printers**, along with laser-cutting, CNC, electronics, and general prototyping capabilities.
+    By **2019**, the Workshop included **seven high-end 3D printers**, along with laser-cutting, CNC, electronics, and general prototyping capabilities.
 
-[UCSB Electrical & Computer Engineering: Convergence, Spring 2019](https://www.ece.ucsb.edu/sites/default/files/2021-02/convergence-S19-entrepreneurship-bowers-p16-24.pdf)
+    [UCSB Electrical & Computer Engineering: Convergence, Spring 2019](https://www.ece.ucsb.edu/sites/default/files/2021-02/convergence-S19-entrepreneurship-bowers-p16-24.pdf)
 
-The result was a powerful combination:
+    The result was a powerful combination:
 
-- **Microfluidics Lab:** specialized fabrication for microfluidic devices and scientific research
-- **Innovation Workshop:** rapid prototyping, mechanical fabrication, electronics, and general-purpose making
+    - **Microfluidics Lab:** specialized fabrication for microfluidic devices and scientific research
+    - **Innovation Workshop:** rapid prototyping, mechanical fabrication, electronics, and general-purpose making
 
-Together, the spaces gave researchers a way to move much more quickly from an idea to a physical prototype.
-
-</details>
+    Together, the spaces gave researchers a way to move much more quickly from an idea to a physical prototype.
 
 ---
 
 ## COVID-19 and the Workshop Wizards
 
-<details>
-<summary>How the pandemic changed the Workshop and helped shape the Workshop Wizards</summary>
+??? note "How the pandemic changed the Workshop and helped shape the Workshop Wizards"
 
-The role of the Workshop changed again during the COVID-19 pandemic.
+    The role of the Workshop changed again during the COVID-19 pandemic.
 
-Before the pandemic, the shared facilities served approximately **300 users from 90 research groups and CNSI incubator companies**.
+    Before the pandemic, the shared facilities served approximately **300 users from 90 research groups and CNSI incubator companies**.
 
-When access to campus laboratories was restricted in **2020**, CNSI staff adapted the Workshop so that users could submit designs and have parts fabricated for them rather than needing to enter the facility themselves.
+    When access to campus laboratories was restricted in **2020**, CNSI staff adapted the Workshop so that users could submit designs and have parts fabricated for them rather than needing to enter the facility themselves.
 
-When PPE was in short supply due to global supply chain issues, we utilized our 3D printers to make lightweight face shields for the campus.
+    When PPE was in short supply due to global supply chain issues, we utilized our 3D printers to make lightweight face shields for the campus.
 
-[UCSB: Printing Protection](https://news.ucsb.edu/2020/019838/printing-protection)
+    [UCSB: Printing Protection](https://news.ucsb.edu/2020/019838/printing-protection)
 
-This experience helped establish a new model for the Workshop: users did not always need to operate the machines themselves. They could bring a problem or design to the Workshop, and the staff and student workers could help turn it into a physical object.
+    This experience helped establish a new model for the Workshop: users did not always need to operate the machines themselves. They could bring a problem or design to the Workshop, and the staff and student workers could help turn it into a physical object.
 
-### The Workshop Wizards
+    ### The Workshop Wizards
 
-This eventually led to the development of the **Workshop Wizards**, an undergraduate program in which students learn to operate and maintain the Workshop's equipment while helping fabricate parts and devices for researchers.
+    This eventually led to the development of the **Workshop Wizards**, an undergraduate program in which students learn to operate and maintain the Workshop's equipment while helping fabricate parts and devices for researchers.
 
-The Wizards maintain equipment, provide training, design new tools, and build parts for users.
+    The Wizards maintain equipment, provide training, design new tools, and build parts for users.
 
-The program transformed the Workshop into more than a collection of machines. It became a place where students could learn practical fabrication, machining, electronics, design, and problem-solving by working on real research and engineering projects.
+    The program transformed the Workshop into more than a collection of machines. It became a place where students could learn practical fabrication, machining, electronics, design, and problem-solving by working on real research and engineering projects.
 
-[UCSB Mechanical Engineering: Young Wizards at the Microfluidics Lab](https://me.ucsb.edu/news/undergraduate/young-wizards-mfl)
-
-</details>
+    [UCSB Mechanical Engineering: Young Wizards at the Microfluidics Lab](https://me.ucsb.edu/news/undergraduate/young-wizards-mfl)
 
 ---
 
 ## From Microfluidics to Rhinoceros Stents
 
-<details>
-<summary>An unusual project demonstrates the power of rapid prototyping</summary>
+??? note "An unusual project demonstrates the power of rapid prototyping"
 
-One of the clearest examples of what the combined facilities could accomplish came from an unusual collaboration involving a black rhinoceros named Layla.
+    One of the clearest examples of what the combined facilities could accomplish came from an unusual collaboration involving a black rhinoceros named Layla.
 
-CNSI collaborated with the Chicago Brookfield Zoo to develop a custom sinus stent for Layla. Between **2020 and 2022**, the Workshop Wizards helped fabricate **14 iterations** of the design, with some iterations being produced in as little as **one to two days**.
+    CNSI collaborated with the Chicago Brookfield Zoo to develop a custom sinus stent for Layla. Between **2020 and 2022**, the Workshop Wizards helped fabricate **14 iterations** of the design, with some iterations being produced in as little as **one to two days**.
 
-[CNSI: CNSI and Layla the Rhinoceros](https://www.cnsi.ucsb.edu/news/all/2023/cnsi-and-layla-rhinoceros)
+    [CNSI: CNSI and Layla the Rhinoceros](https://www.cnsi.ucsb.edu/news/all/2023/cnsi-and-layla-rhinoceros)
 
-The project demonstrated something fundamental about the Workshop.
+    The project demonstrated something fundamental about the Workshop.
 
-The value of a shared fabrication facility is not simply the machines themselves. It is the ability to move rapidly through a cycle of:
+    The value of a shared fabrication facility is not simply the machines themselves. It is the ability to move rapidly through a cycle of:
 
-> **Design → Fabrication → Testing → Redesign → Fabrication**
+    > **Design → Fabrication → Testing → Redesign → Fabrication**
 
-That cycle is at the heart of modern rapid prototyping.
-
-</details>
+    That cycle is at the heart of modern rapid prototyping.
 
 ---
 
 ## 2024: A New Chapter
 
-<details>
-<summary>The Microfluidics Lab and Innovation Workshop become one fabrication ecosystem</summary>
+??? note "The Microfluidics Lab and Innovation Workshop become one fabrication ecosystem"
 
-In the **summer of 2024**, Elings **2448** was converted into an **Incubator Lab**.
+    In the **summer of 2024**, Elings **2448** was converted into an **Incubator Lab**.
 
-This change reduced the Workshop's available footprint by approximately **30%**.
+    This change reduced the Workshop's available footprint by approximately **30%**.
 
-Rather than simply trying to fit the old organization into a smaller space, we took the opportunity to reconsider what the Workshop actually was.
+    Rather than simply trying to fit the old organization into a smaller space, we took the opportunity to reconsider what the Workshop actually was.
 
-The answer was clear:
+    The answer was clear:
 
-**The Microfluidics Lab and the Innovation Workshop had become one fabrication ecosystem.**
+    **The Microfluidics Lab and the Innovation Workshop had become one fabrication ecosystem.**
 
-The name *Microfluidics Lab* described how the facility began, but it no longer described the full range of work taking place there.
+    The name *Microfluidics Lab* described how the facility began, but it no longer described the full range of work taking place there.
 
-So we reorganized the facilities around their current capabilities rather than their historical names.
-
-</details>
+    So we reorganized the facilities around their current capabilities rather than their historical names.
 
 ---
 
 ## Future Makers: Bringing Making to the Next Generation
 
-<details>
-<summary>Extending the Workshop's mission to local K–12 students</summary>
+??? note "Extending the Workshop's mission to local K–12 students"
 
-The Innovation Workshop's mission to make fabrication accessible does not stop at UCSB's research community. In **2025**, that mission expanded beyond the university through the creation of the **Future Makers Program**, a partnership between the CNSI Innovation Workshop and **Los Ingenieros**, a UCSB student organization dedicated to mentoring and inspiring future Latin@ STEM graduates.
+    The Innovation Workshop's mission to make fabrication accessible does not stop at UCSB's research community. In **2025**, that mission expanded beyond the university through the creation of the **Future Makers Program**, a partnership between the CNSI Innovation Workshop and **Los Ingenieros**, a UCSB student organization dedicated to mentoring and inspiring future Latin@ STEM graduates.
 
-Future Makers was created around a simple idea: many children never get the opportunity to use the kinds of tools that makers and engineers take for granted.
+    Future Makers was created around a simple idea: many children never get the opportunity to use the kinds of tools that makers and engineers take for granted.
 
-3D printers, laser cutters, CNC machines, electronics, and even basic fabrication tools can seem completely inaccessible to a young student. But giving a child the opportunity to make something with those tools can change how they see themselves — not just as a student, but as someone capable of designing and building things.
+    3D printers, laser cutters, CNC machines, electronics, and even basic fabrication tools can seem completely inaccessible to a young student. But giving a child the opportunity to make something with those tools can change how they see themselves — not just as a student, but as someone capable of designing and building things.
 
-The program received an **Uplift Central Coast Catalyst Predevelopment Grant in February 2025**. Future Makers was one of **36 projects selected from 136 applicants** competing for a share of a **$9 million** grant program.
+    The program received an **Uplift Central Coast Catalyst Predevelopment Grant in February 2025**. Future Makers was one of **36 projects selected from 136 applicants** competing for a share of a **$9 million** grant program.
 
-[CNSI: Innovation Workshop Supports "Future Makers" with Uplift Central Coast Catalyst Predevelopment Grant](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
+    [CNSI: Innovation Workshop Supports "Future Makers" with Uplift Central Coast Catalyst Predevelopment Grant](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
 
-### From Grant to Reality
+    ### From Grant to Reality
 
-The first Future Makers field trip took place in **late 2025**, when fourth- through sixth-grade students from Glen City Elementary in Santa Paula visited Elings Hall.
+    The first Future Makers field trip took place in **late 2025**, when fourth- through sixth-grade students from Glen City Elementary in Santa Paula visited Elings Hall.
 
-The students spent the day exploring UCSB before coming to the Innovation Workshop, where they used **3D printers, a laser cutter, and a robotic sticker cutter** to create personalized trading cards based on their interests, favorite subjects, animals, and dreams.
+    The students spent the day exploring UCSB before coming to the Innovation Workshop, where they used **3D printers, a laser cutter, and a robotic sticker cutter** to create personalized trading cards based on their interests, favorite subjects, animals, and dreams.
 
-The activity was developed and led by Innovation Workshop Manager Brian Dincau and the Workshop Wizards, who spent months refining the project to make sure it was safe, engaging, and accessible for elementary-school students.
+    The activity was developed and led by Innovation Workshop Manager Brian Dincau and the Workshop Wizards, who spent months refining the project to make sure it was safe, engaging, and accessible for elementary-school students.
 
-[UCSB: UCSB Program Broadens STEM Opportunity for Underserved Youth](https://news.ucsb.edu/2025/022308/ucsb-program-broadens-stem-opportunity-underserved-youth)
+    [UCSB: UCSB Program Broadens STEM Opportunity for Underserved Youth](https://news.ucsb.edu/2025/022308/ucsb-program-broadens-stem-opportunity-underserved-youth)
 
-The response from the students demonstrated exactly what the program was designed to accomplish.
+    The response from the students demonstrated exactly what the program was designed to accomplish.
 
-Rather than simply teaching students how to operate a machine, Future Makers gives them the experience of **making something that belongs to them**. The students make decisions, experiment with unfamiliar technology, and leave campus holding something they designed themselves.
+    Rather than simply teaching students how to operate a machine, Future Makers gives them the experience of **making something that belongs to them**. The students make decisions, experiment with unfamiliar technology, and leave campus holding something they designed themselves.
 
-That distinction is important.
+    That distinction is important.
 
-The goal is not simply to introduce children to STEM careers. It is to help them see themselves as people who can participate in those careers.
+    The goal is not simply to introduce children to STEM careers. It is to help them see themselves as people who can participate in those careers.
 
-The first visit was only the beginning. The Uplift Central Coast grant supported **nine Future Makers field trips**, bringing students from **Lompoc, Santa Maria, and Santa Paula** to UCSB.
+    The first visit was only the beginning. The Uplift Central Coast grant supported **nine Future Makers field trips**, bringing students from **Lompoc, Santa Maria, and Santa Paula** to UCSB.
 
-Future Makers represents a natural extension of the Innovation Workshop's history.
+    Future Makers represents a natural extension of the Innovation Workshop's history.
 
-The Microfluidics Lab was originally created to make advanced fabrication accessible to researchers who could not easily use the cleanroom.
+    The Microfluidics Lab was originally created to make advanced fabrication accessible to researchers who could not easily use the cleanroom.
 
-The Innovation Workshop expanded that philosophy to students, entrepreneurs, and anyone with an idea they wanted to prototype.
+    The Innovation Workshop expanded that philosophy to students, entrepreneurs, and anyone with an idea they wanted to prototype.
 
-The Workshop Wizards turned that philosophy into a hands-on learning experience for UCSB undergraduates.
+    The Workshop Wizards turned that philosophy into a hands-on learning experience for UCSB undergraduates.
 
-And Future Makers carries it one step further — bringing the opportunity to **make, experiment, and imagine** directly to students who may never have had access to these tools before.
+    And Future Makers carries it one step further — bringing the opportunity to **make, experiment, and imagine** directly to students who may never have had access to these tools before.
 
-> **You don't have to know what you want to build before you walk through the door. Sometimes you just need someone to show you that you can build something at all.**
-
-</details>
+    > **You don't have to know what you want to build before you walk through the door. Sometimes you just need someone to show you that you can build something at all.**
 
 ---
 
