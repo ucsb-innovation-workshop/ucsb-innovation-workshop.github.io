@@ -4,7 +4,7 @@
 
 
 /* -------------------------------------------------- */
-/* Section headings                                    */
+/* Headings                                            */
 /* -------------------------------------------------- */
 
 .md-typeset h1,
@@ -18,31 +18,52 @@
 /* Collapsible history sections                        */
 /* -------------------------------------------------- */
 
-/* Remove the Material admonition box */
+/*
+ * Material treats ??? note blocks as admonitions.
+ * The rules below deliberately override the default
+ * admonition appearance so the history reads like an
+ * article rather than a collection of blue boxes.
+ */
 
-.md-typeset details.admonition {
-  margin: 0 0 2.5rem 0;
-  padding: 0;
-  border: 0 !important;
-  border-left: 0 !important;
-  border-radius: 0;
+
+/* Remove the outer admonition box */
+
+.md-typeset .admonition,
+.md-typeset details.admonition,
+.md-typeset details.note {
+  margin-top: 0;
+  margin-bottom: 2.5rem;
+
+  padding: 0 !important;
+
+  border: none !important;
+  border-left: none !important;
+  border-radius: 0 !important;
+
   background: transparent !important;
   box-shadow: none !important;
 }
 
 
-/* Remove Material's blue title bar */
+/* Remove the blue Material title bar */
 
-.md-typeset details.admonition > summary.admonition-title {
-  margin: 0;
-  padding: 0.15rem 0 0.25rem 0;
+.md-typeset details.admonition > summary,
+.md-typeset details.admonition > summary.admonition-title,
+.md-typeset details.note > summary,
+.md-typeset details.note > summary.admonition-title {
+  display: block;
 
-  border: 0 !important;
-  border-radius: 0;
+  margin: 0 !important;
+  padding: 0.15rem 0 0.25rem 0 !important;
+
+  border: none !important;
+  border-radius: 0 !important;
+
   background: transparent !important;
   box-shadow: none !important;
 
-  color: var(--md-default-fg-color--light);
+  color: var(--md-default-fg-color--light) !important;
+
   font-size: 0.72rem;
   font-weight: 500;
   line-height: 1.5;
@@ -51,45 +72,62 @@
 }
 
 
-/* Remove the blue pencil / note icon */
+/* -------------------------------------------------- */
+/* Remove Material icons                               */
+/* -------------------------------------------------- */
 
-.md-typeset details.admonition > summary.admonition-title::before {
+
+/* Remove the blue pencil */
+
+.md-typeset details.admonition > summary::before,
+.md-typeset details.admonition > summary.admonition-title::before,
+.md-typeset details.note > summary::before,
+.md-typeset details.note > summary.admonition-title::before {
   display: none !important;
+
+  content: none !important;
 }
 
 
-/* Remove Material's default disclosure arrow */
+/* Remove Material's original arrow */
 
-.md-typeset details.admonition > summary.admonition-title::after {
+.md-typeset details.admonition > summary::after,
+.md-typeset details.admonition > summary.admonition-title::after,
+.md-typeset details.note > summary::after,
+.md-typeset details.note > summary.admonition-title::after {
   display: none !important;
+
+  content: none !important;
 }
 
 
-/* Create a simple, subtle arrow */
+/* Add our own very subtle arrow */
 
-.md-typeset details.admonition > summary.admonition-title::after {
-  content: "→";
+.md-typeset details.admonition > summary.admonition-title::after,
+.md-typeset details.note > summary.admonition-title::after {
+  content: "→" !important;
+
   display: inline-block !important;
 
   margin-left: 0.4rem;
 
-  color: var(--md-accent-fg-color);
+  color: var(--md-accent-fg-color) !important;
+
   font-weight: 500;
 }
 
 
-/* Hover state */
+/* -------------------------------------------------- */
+/* Hover state                                         */
+/* -------------------------------------------------- */
 
-.md-typeset details.admonition > summary.admonition-title:hover {
-  color: var(--md-accent-fg-color);
-}
+.md-typeset details.admonition > summary:hover,
+.md-typeset details.admonition > summary.admonition-title:hover,
+.md-typeset details.note > summary:hover,
+.md-typeset details.note > summary.admonition-title:hover {
+  color: var(--md-accent-fg-color) !important;
 
-
-/* Keyboard focus */
-
-.md-typeset details.admonition > summary.admonition-title:focus-visible {
-  outline: 2px solid var(--md-accent-fg-color);
-  outline-offset: 3px;
+  background: transparent !important;
 }
 
 
@@ -97,18 +135,33 @@
 /* Expanded content                                    */
 /* -------------------------------------------------- */
 
-.md-typeset details.admonition[open] {
-  border: 0 !important;
+.md-typeset details.admonition[open],
+.md-typeset details.note[open] {
+  border: none !important;
   background: transparent !important;
   box-shadow: none !important;
 }
 
 
-/* Give the article a little breathing room after
-   the "read more" line */
+/* Give the article content some separation from the
+   "read more" line */
 
-.md-typeset details.admonition[open] > :not(summary):first-of-type {
-  margin-top: 1rem;
+.md-typeset details.admonition[open] > :not(summary),
+.md-typeset details.note[open] > :not(summary) {
+  background: transparent !important;
+}
+
+
+/* -------------------------------------------------- */
+/* Focus state                                         */
+/* -------------------------------------------------- */
+
+.md-typeset details.admonition > summary:focus,
+.md-typeset details.admonition > summary:focus-visible,
+.md-typeset details.note > summary:focus,
+.md-typeset details.note > summary:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
 }
 
 
@@ -116,15 +169,8 @@
 /* History page spacing                                */
 /* -------------------------------------------------- */
 
-/* Pull the collapsible slightly closer to its heading */
-
-.md-typeset h2 + details.admonition {
+.md-typeset h2 + details.admonition,
+.md-typeset h2 + details.note {
   margin-top: -0.35rem;
-}
-
-
-/* Don't put a giant gap between historical sections */
-
-.md-typeset h2 + details.admonition {
   margin-bottom: 2.25rem;
 }
