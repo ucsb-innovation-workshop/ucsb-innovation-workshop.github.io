@@ -3,9 +3,7 @@
 /* ================================================== */
 
 
-/* -------------------------------------------------- */
-/* Section headings                                    */
-/* -------------------------------------------------- */
+/* Section headings */
 
 .md-typeset h1,
 .md-typeset h2,
@@ -18,9 +16,9 @@
 /* Collapsible history sections                        */
 /* -------------------------------------------------- */
 
-/* Remove all of Material's default details styling */
+/* Remove the box around collapsible admonitions */
 
-.md-typeset details {
+.md-typeset details.admonition {
   margin: 0 0 2rem 0;
   padding: 0;
   border: none;
@@ -30,114 +28,59 @@
 }
 
 
-/* The clickable summary */
+/* Make the title look like a quiet "read more" link */
 
-.md-typeset details > summary {
-  display: block;
+.md-typeset details.admonition > summary {
   margin: 0;
-  padding: 0.1rem 0 0 0;
-
+  padding: 0.15rem 0;
   border: none;
   background: transparent;
 
   color: var(--md-default-fg-color--light);
   font-size: 0.72rem;
   font-weight: 500;
-  line-height: 1.4;
-
-  cursor: pointer;
 }
 
 
-/* Remove Material's default pencil/note icon */
+/* Remove the default admonition icon */
 
-.md-typeset details > summary::before {
-  display: none !important;
-}
-
-
-/* Remove the default chevron */
-
-.md-typeset details > summary::after {
-  display: none !important;
-}
-
-
-/* Remove the browser's default disclosure triangle */
-
-.md-typeset details > summary::-webkit-details-marker {
+.md-typeset details.admonition > summary::before {
   display: none;
 }
 
 
-/* Add our own subtle arrow */
+/* Remove the colored background from the summary */
 
-.md-typeset details > summary::marker {
-  display: none;
-}
-
-.md-typeset details > summary {
-  list-style: none;
-}
-
-.md-typeset details > summary::after {
-  content: " →";
-  display: inline !important;
-
-  color: var(--md-accent-fg-color);
-  font-weight: 500;
+.md-typeset details.admonition > summary {
+  box-shadow: none;
 }
 
 
-/* Hover state */
+/* Use the accent color for the disclosure arrow */
 
-.md-typeset details > summary:hover {
+.md-typeset details.admonition > summary::after {
   color: var(--md-accent-fg-color);
 }
 
 
-/* Keyboard accessibility */
+/* Hover */
 
-.md-typeset details > summary:focus-visible {
-  outline: 2px solid var(--md-accent-fg-color);
-  outline-offset: 3px;
+.md-typeset details.admonition > summary:hover {
+  color: var(--md-accent-fg-color);
 }
 
 
-/* -------------------------------------------------- */
-/* Expanded content                                    */
-/* -------------------------------------------------- */
+/* Content spacing */
 
-/* Keep the expanded section visually connected to its
-   heading and summary */
-
-.md-typeset details[open] {
-  margin-bottom: 2rem;
-}
-
-
-/* Space between "Read more" and the actual content */
-
-.md-typeset details[open] > :not(summary):first-of-type {
+.md-typeset details.admonition[open] > :not(summary) {
   margin-top: 1rem;
 }
 
 
-/* -------------------------------------------------- */
-/* History page spacing                                */
-/* -------------------------------------------------- */
+/* Keep historical sections separated by whitespace,
+   rather than horizontal rules */
 
-/* Reduce the space below h2 headings when they are
-   immediately followed by a collapsible section */
-
-.md-typeset h2 + details {
+.md-typeset h2 + details.admonition {
   margin-top: -0.5rem;
-}
-
-
-/* Give each historical section a little breathing room,
-   without creating large gaps */
-
-.md-typeset h2 + details {
-  margin-bottom: 2.25rem;
+  margin-bottom: 2.5rem;
 }
