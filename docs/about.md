@@ -12,7 +12,7 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ## From CNSI to Elings Hall
 
-??? note "How Elings Hall and the CNSI established the foundation for shared research facilities"
+??? note "How Elings Hall and CNSI established the foundation for shared research facilities"
 
     The story begins with the creation of the California Institutes for Science and Innovation in **2000**, which included the California NanoSystems Institute at UC Santa Barbara and UCLA.
 
@@ -32,7 +32,7 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ## The Microfluidics Lab
 
-??? note "From cleanroom bottleneck to an accessible shared fabrication facility"
+??? note "From cleanroom bottleneck to accessible fabrication"
 
     Before the Microfluidics Lab existed, UCSB researchers working with microfluidic devices often relied on the campus cleanroom and the semiconductor and MEMS fabrication infrastructure that had developed around it.
 
@@ -78,7 +78,7 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ## The Innovation Workshop Emerges
 
-??? note "How the Workshop grew alongside the Microfluidics Lab"
+??? note "How the Innovation Workshop grew alongside the Microfluidics Lab"
 
     The Innovation Workshop grew out of the same need for accessible, shared fabrication resources.
 
@@ -125,7 +125,7 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ## COVID-19 and the Workshop Wizards
 
-??? note "How the pandemic changed the Workshop and helped shape the Workshop Wizards"
+??? note "How the pandemic changed the Innovation Workshop and helped shape the Workshop Wizards"
 
     The role of the Workshop changed again during the COVID-19 pandemic.
 
