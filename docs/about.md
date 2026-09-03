@@ -189,12 +189,6 @@ The program received an **Uplift Central Coast Catalyst Predevelopment Grant in 
 
 [CNSI: Innovation Workshop Supports "Future Makers" with Uplift Central Coast Catalyst Predevelopment Grant](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
 
-The grant supports a series of hands-on workshops for **3rd- through 8th-grade students** from communities in Santa Barbara and Ventura counties. The program brings students to UCSB for a day of making, exploration, and exposure to STEM education and careers.
-
-Participants use tools in the Innovation Workshop — including **3D printers, laser cutters, CNC equipment, microscopes, and soldering tools** — to create something of their own.
-
-The program also connects the workshop experience with the larger UCSB campus. Students visit additional CNSI Facilities, as well as the REEF Touch Tanks over by Campys Point, while members of Los Ingenieros provide mentorship and encouragement throughout the day.
-
 ### From Grant to Reality
 
 The first Future Makers field trip took place in **late 2025**, when fourth- through sixth-grade students from Glen City Elementary in Santa Paula visited Elings Hall.
@@ -279,19 +273,4 @@ Its emphasis is on:
 The Machine Hub includes a suite of traditional machining tools as well as a waterjet cutter capable of processing a wide range of materials.
 
 [CNSI: Machining Hub](https://www.cnsi.ucsb.edu/facilities/machining-hub)
-
-This creates a simple division between the two spaces:
-
-### Innovation Workshop — Elings 3430
-
-Rapid prototyping, 3D printing, microfluidics fabrication, laser cutting, electronics, polymer processing, and specialized fabrication.
-
-### Innovation Workshop Machine Hub — Elings 2442
-
-Manual machining, hand tools, mechanical fabrication, and waterjet cutting.
-
-
-> **Build it. Test it. Learn from it. Make it better.**
-
-That is the Innovation Workshop.
 
