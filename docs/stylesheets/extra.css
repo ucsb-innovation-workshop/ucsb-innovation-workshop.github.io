@@ -1,4 +1,8 @@
 /* Make section headings orange */
+.md-typeset h1 {
+  color: #ff9800;
+}
+
 .md-typeset h2 {
   color: #ff9800;
 }
