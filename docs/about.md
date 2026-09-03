@@ -66,8 +66,6 @@ researchers could increasingly approach the Microfluidics Lab with:
 
 By **2013**, the Microfluidics Lab was already operating as a substantial shared facility. Its equipment included tools and processes for PDMS mixing and casting, spin coating, ozone treatment, wafer bonding, microscopy, CNC cutting and drilling, and other forms of microfluidic fabrication.
 
-[UCSB Industry Alliances: Shared Facilities](https://industry.ucsb.edu/sites/industry.ucsb.edu/files/pdf/Facilities%205%2029%2013.pdf)
-
 The Microfluidics Lab became an important bridge between UCSB's highly specialized nanofabrication infrastructure and the researchers who simply needed to make something and test an idea.
 
 That idea — **make sophisticated fabrication accessible to more people** — would become the foundation of the Innovation Workshop.
@@ -143,7 +141,7 @@ Rather than forcing every project into a particular category, users could choose
 
 The role of the Workshop changed again during the COVID-19 pandemic.
 
-Before the pandemic, the shared facilities served approximately **300 users from 90 research groups and CNSI incubator companies**.
+Before the pandemic, the shared facilities served approximately **200 users from 40 research groups and CNSI incubator companies**.
 
 When access to campus laboratories was restricted in **2020**, CNSI staff adapted the Workshop so that users could submit designs and have parts fabricated for them rather than needing to enter the facility themselves.
 
