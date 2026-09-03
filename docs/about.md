@@ -219,6 +219,60 @@ So we reorganized the facilities around their current capabilities rather than t
 
 ---
 
+## Future Makers: Bringing Making to the Next Generation
+
+The Innovation Workshop's mission to make fabrication accessible does not stop at UCSB's research community. In **2025**, that mission expanded beyond the university through the creation of the **Future Makers Program**, a partnership between the CNSI Innovation Workshop and **Los Ingenieros**, a UCSB student organization dedicated to mentoring and inspiring future Latin@ STEM graduates.
+
+Future Makers was created around a simple idea: many children never get the opportunity to use the kinds of tools that makers and engineers take for granted.
+
+3D printers, laser cutters, CNC machines, electronics, and even basic fabrication tools can seem completely inaccessible to a young student. But giving a child the opportunity to make something with those tools can change how they see themselves — not just as a student, but as someone capable of designing and building things.
+
+The program received an **Uplift Central Coast Catalyst Predevelopment Grant in February 2025**. Future Makers was one of **36 projects selected from 136 applicants** competing for a share of a **$9 million** grant program.
+
+[CNSI: Innovation Workshop Supports "Future Makers" with Uplift Central Coast Catalyst Predevelopment Grant](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
+
+The grant supports a series of hands-on workshops for **3rd- through 8th-grade students** from communities in Santa Barbara and Ventura counties. The program brings students to UCSB for a day of making, exploration, and exposure to STEM education and careers.
+
+Participants use tools in the Innovation Workshop — including **3D printers, laser cutters, CNC equipment, microscopes, and soldering tools** — to create something of their own.
+
+The program also connects the workshop experience with the larger UCSB campus. Students can visit facilities such as the REEF touch tanks, UCSB Library, and Nanofab, while members of Los Ingenieros provide mentorship and encouragement throughout the day.
+
+### From Grant to Reality
+
+The first Future Makers field trip took place in **late 2025**, when fourth- through sixth-grade students from Glen City Elementary in Santa Paula visited Elings Hall.
+
+The students spent the day exploring UCSB before coming to the Innovation Workshop, where they used **3D printers, a laser cutter, and a robotic sticker cutter** to create personalized trading cards based on their interests, favorite subjects, animals, and dreams.
+
+The activity was developed and led by Innovation Workshop Manager Brian Dincau and the Workshop Wizards, who spent months refining the project to make sure it was safe, engaging, and accessible for elementary-school students.
+
+[UCSB: UCSB Program Broadens STEM Opportunity for Underserved Youth](https://news.ucsb.edu/2025/022308/ucsb-program-broadens-stem-opportunity-underserved-youth)
+
+The response from the students demonstrated exactly what the program was designed to accomplish.
+
+Rather than simply teaching students how to operate a machine, Future Makers gives them the experience of **making something that belongs to them**. The students make decisions, experiment with unfamiliar technology, and leave campus holding something they designed themselves.
+
+That distinction is important.
+
+The goal is not simply to introduce children to STEM careers. It is to help them see themselves as people who can participate in those careers.
+
+The first visit was only the beginning. The Uplift Central Coast grant supports **nine Future Makers field trips**, bringing students from **Lompoc, Santa Maria, and Santa Paula** to UCSB.
+
+[CNSI: Future Makers Program](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
+
+Future Makers represents a natural extension of the Innovation Workshop's history.
+
+The Microfluidics Lab was originally created to make advanced fabrication accessible to researchers who could not easily use the cleanroom.
+
+The Innovation Workshop expanded that philosophy to students, entrepreneurs, and anyone with an idea they wanted to prototype.
+
+The Workshop Wizards turned that philosophy into a hands-on learning experience for UCSB undergraduates.
+
+And Future Makers carries it one step further — bringing the opportunity to **make, experiment, and imagine** directly to students who may never have had access to these tools before.
+
+> **You don't have to know what you want to build before you walk through the door. Sometimes you just need someone to show you that you can build something at all.**
+
+---
+
 ## The Innovation Workshop Today
 
 ### Elings 3430 — Innovation Workshop
