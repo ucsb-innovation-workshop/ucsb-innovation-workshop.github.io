@@ -48,7 +48,7 @@ After submitting your Facility Access Request, use the Training Request Form to 
 - New User Orientation
 - Training on specific Workshop tools
 
-[**Request New User Orientation or Tool Training**](https://forms.gle/)
+[**Request New User Orientation or Tool Training**](https://docs.google.com/forms/d/e/1FAIpQLSewzNVlJc5TImlY7OTR7UUEUHzaQ3CSZ5R6joGe0HDVbSZMXw/viewform)
 
 > **Important:** Submit your Facility Access Request before requesting New User Orientation or tool training.
 
