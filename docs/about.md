@@ -10,7 +10,8 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ---
 
-## From CNSI to Elings Hall
+<details>
+<summary><strong>From CNSI to Elings Hall</strong></summary>
 
 The story begins with the creation of the California Institutes for Science and Innovation in **2000**, which included the California NanoSystems Institute at UC Santa Barbara and UCLA.
 
@@ -26,9 +27,12 @@ From the beginning, Elings Hall was intended to be more than a collection of con
 
 That philosophy would eventually lead to the creation of the Microfluidics Lab and, later, the Innovation Workshop.
 
+</details>
+
 ---
 
-## The Microfluidics Lab
+<details>
+<summary><strong>The Microfluidics Lab</strong></summary>
 
 Before the Microfluidics Lab existed, UCSB researchers working with microfluidic devices often relied on the campus cleanroom and the semiconductor and MEMS fabrication infrastructure that had developed around it.
 
@@ -70,9 +74,12 @@ The Microfluidics Lab became an important bridge between UCSB's highly specializ
 
 That idea — **make sophisticated fabrication accessible to more people** — would become the foundation of the Innovation Workshop.
 
+</details>
+
 ---
 
-## The Innovation Workshop Emerges
+<details>
+<summary><strong>The Innovation Workshop Emerges</strong></summary>
 
 The Innovation Workshop grew out of the same need for accessible, shared fabrication resources.
 
@@ -90,9 +97,12 @@ The two spaces were therefore not competing facilities. They were two expression
 
 > **Make fabrication accessible.**
 
+</details>
+
 ---
 
-## The 2018 Expansion
+<details>
+<summary><strong>The 2018 Expansion</strong></summary>
 
 A major expansion came through **California Assembly Bill 2664**, which provided **$22 million** across the University of California system to expand innovation and entrepreneurship infrastructure.
 
@@ -113,9 +123,12 @@ The result was a powerful combination:
 
 Together, the spaces gave researchers a way to move much more quickly from an idea to a physical prototype.
 
+</details>
+
 ---
 
-## COVID-19 and the Workshop Wizards
+<details>
+<summary><strong>COVID-19 and the Workshop Wizards</strong></summary>
 
 The role of the Workshop changed again during the COVID-19 pandemic.
 
@@ -139,9 +152,12 @@ The program transformed the Workshop into more than a collection of machines. It
 
 [UCSB Mechanical Engineering: Young Wizards at the Microfluidics Lab](https://me.ucsb.edu/news/undergraduate/young-wizards-mfl)
 
+</details>
+
 ---
 
-## From Microfluidics to Rhinoceros Stents
+<details>
+<summary><strong>From Microfluidics to Rhinoceros Stents</strong></summary>
 
 One of the clearest examples of what the combined facilities could accomplish came from an unusual collaboration involving a black rhinoceros named Layla.
 
@@ -157,9 +173,12 @@ The value of a shared fabrication facility is not simply the machines themselves
 
 That cycle is at the heart of modern rapid prototyping.
 
+</details>
+
 ---
 
-# 2024: A New Chapter
+<details>
+<summary><strong>2024: A New Chapter</strong></summary>
 
 In the **summer of 2024**, Elings **2448** was converted into an **Incubator Lab**.
 
@@ -175,9 +194,12 @@ The name *Microfluidics Lab* described how the facility began, but it no longer 
 
 So we reorganized the facilities around their current capabilities rather than their historical names.
 
+</details>
+
 ---
 
-## Future Makers: Bringing Making to the Next Generation
+<details>
+<summary><strong>Future Makers: Bringing Making to the Next Generation</strong></summary>
 
 The Innovation Workshop's mission to make fabrication accessible does not stop at UCSB's research community. In **2025**, that mission expanded beyond the university through the creation of the **Future Makers Program**, a partnership between the CNSI Innovation Workshop and **Los Ingenieros**, a UCSB student organization dedicated to mentoring and inspiring future Latin@ STEM graduates.
 
@@ -220,6 +242,8 @@ The Workshop Wizards turned that philosophy into a hands-on learning experience 
 And Future Makers carries it one step further — bringing the opportunity to **make, experiment, and imagine** directly to students who may never have had access to these tools before.
 
 > **You don't have to know what you want to build before you walk through the door. Sometimes you just need someone to show you that you can build something at all.**
+
+</details>
 
 ---
 
@@ -273,4 +297,3 @@ Its emphasis is on:
 The Machine Hub includes a suite of traditional machining tools as well as a waterjet cutter capable of processing a wide range of materials.
 
 [CNSI: Machining Hub](https://www.cnsi.ucsb.edu/facilities/machining-hub)
-
