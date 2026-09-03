@@ -28,7 +28,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     That philosophy would eventually lead to the creation of the Microfluidics Lab and, later, the Innovation Workshop.
 
----
 
 ## The Microfluidics Lab
 
@@ -74,7 +73,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     That idea — **make sophisticated fabrication accessible to more people** — would become the foundation of the Innovation Workshop.
 
----
 
 ## The Innovation Workshop Emerges
 
@@ -96,7 +94,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     > **Make fabrication accessible.**
 
----
 
 ## The 2018 Expansion
 
@@ -120,8 +117,6 @@ The names and rooms have changed over the years, but the underlying mission has 
     - **Innovation Workshop:** rapid prototyping, mechanical fabrication, electronics, and general-purpose making
 
     Together, the spaces gave researchers a way to move much more quickly from an idea to a physical prototype.
-
----
 
 ## COVID-19 and the Workshop Wizards
 
@@ -149,7 +144,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     [UCSB Mechanical Engineering: Young Wizards at the Microfluidics Lab](https://me.ucsb.edu/news/undergraduate/young-wizards-mfl)
 
----
 
 ## From Microfluidics to Rhinoceros Stents
 
@@ -169,7 +163,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     That cycle is at the heart of modern rapid prototyping.
 
----
 
 ## 2024: A New Chapter
 
@@ -189,7 +182,6 @@ The names and rooms have changed over the years, but the underlying mission has 
 
     So we reorganized the facilities around their current capabilities rather than their historical names.
 
----
 
 ## Future Makers: Bringing Making to the Next Generation
 
@@ -268,7 +260,6 @@ The current CNSI description reflects this broader role, describing the Innovati
 
 [CNSI: Innovation Workshop](https://www.cnsi.ucsb.edu/facilities/innovation-workshop)
 
----
 
 ## Innovation Workshop Machine Hub
 
