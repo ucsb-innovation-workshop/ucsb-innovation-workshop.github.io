@@ -13,9 +13,14 @@ Access to the Innovation Workshop requires completion of the following steps **i
 
 ## Who Can Use the Innovation Workshop?
 
-The Innovation Workshop is available to researchers at UCSB and accommodates a wide range of student research and project teams.
+The Innovation Workshop is available to: 
+- UCSB undergraduates, graduate students, post docs, professors, and other university staff working on UC-funded projects
+- Companies that want to use the Innovation Workshop for prototyping or testing new equipment
+- Elementary, middle school, and high school groups for tours and maker activities
 
-The Workshop can also support users from outside UCSB. If you are an off-campus user interested in using the Workshop, please contact the Workshop Manager to discuss your project and access requirements.
+If you are unsure if the Innovation Workshop is the right place for your work, contact the lab manager Brian Dincau (bdincau@ucsb.edu)
+
+
 
 ---
 
