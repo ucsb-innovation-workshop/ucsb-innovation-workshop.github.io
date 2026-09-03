@@ -1,0 +1,177 @@
+/* ================================================== */
+/* Innovation Workshop Wiki — Custom Styles           */
+/* ================================================== */
+
+
+/* -------------------------------------------------- */
+/* Headings                                            */
+/* -------------------------------------------------- */
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: #ff9800;
+}
+
+.md-typeset h2 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+
+/* -------------------------------------------------- */
+/* Collapsible history sections                        */
+/* -------------------------------------------------- */
+
+/* Remove the Material admonition box */
+
+.md-typeset .admonition,
+.md-typeset details.admonition,
+.md-typeset details.note {
+  margin-top: 0;
+  margin-bottom: 0.5rem !important;
+
+  padding: 0 !important;
+
+  border: none !important;
+  border-left: none !important;
+  border-radius: 0 !important;
+
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+
+/* The "Read more" line */
+
+.md-typeset details.admonition > summary,
+.md-typeset details.admonition > summary.admonition-title,
+.md-typeset details.note > summary,
+.md-typeset details.note > summary.admonition-title {
+  display: inline-block;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  border: none !important;
+  border-radius: 0 !important;
+
+  background: transparent !important;
+  box-shadow: none !important;
+
+  color: var(--md-default-fg-color--light) !important;
+
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.5;
+
+  cursor: pointer;
+}
+
+
+/* Remove the blue pencil */
+
+.md-typeset details.admonition > summary::before,
+.md-typeset details.admonition > summary.admonition-title::before,
+.md-typeset details.note > summary::before,
+.md-typeset details.note > summary.admonition-title::before {
+  display: none !important;
+  content: none !important;
+}
+
+
+/* Remove Material's arrow */
+
+.md-typeset details.admonition > summary::after,
+.md-typeset details.admonition > summary.admonition-title::after,
+.md-typeset details.note > summary::after,
+.md-typeset details.note > summary.admonition-title::after {
+  display: none !important;
+  content: none !important;
+}
+
+
+/* Our arrow */
+
+.md-typeset details.admonition > summary.admonition-title::after,
+.md-typeset details.note > summary.admonition-title::after {
+  content: " →" !important;
+
+  display: inline !important;
+
+  color: var(--md-accent-fg-color) !important;
+
+  font-weight: 600;
+}
+
+
+/* Hover */
+
+.md-typeset details.admonition > summary:hover,
+.md-typeset details.admonition > summary.admonition-title:hover,
+.md-typeset details.note > summary:hover,
+.md-typeset details.note > summary.admonition-title:hover {
+  color: var(--md-accent-fg-color) !important;
+}
+
+
+/* -------------------------------------------------- */
+/* Expanded content                                    */
+/* -------------------------------------------------- */
+
+.md-typeset details.admonition[open],
+.md-typeset details.note[open] {
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+
+/* Slight gap between the summary and article */
+
+.md-typeset details.admonition[open] > :not(summary),
+.md-typeset details.note[open] > :not(summary) {
+  background: transparent !important;
+}
+
+
+/* -------------------------------------------------- */
+/* Remove horizontal rules around history sections     */
+/* -------------------------------------------------- */
+
+/*
+ * MkDocs/Material can add separators around sections
+ * depending on the surrounding Markdown structure.
+ * Remove them from the history content.
+ */
+
+.md-typeset hr {
+  border: 0;
+  border-top: none;
+  margin: 0;
+}
+
+
+/* -------------------------------------------------- */
+/* History page spacing                                */
+/* -------------------------------------------------- */
+
+.md-typeset h2 + details.admonition,
+.md-typeset h2 + details.note {
+  margin-top: -0.25rem;
+  margin-bottom: 2.5rem;
+}
+
+
+/* -------------------------------------------------- */
+/* Focus state                                         */
+/* -------------------------------------------------- */
+
+.md-typeset details.admonition > summary:focus,
+.md-typeset details.admonition > summary:focus-visible,
+.md-typeset details.note > summary:focus,
+.md-typeset details.note > summary:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
