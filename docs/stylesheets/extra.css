@@ -10,3 +10,81 @@
 .md-typeset h3 {
   color: #ff9800;
 }
+
+/* -------------------------------------------------- */
+/* Custom styling for collapsible history sections    */
+/* -------------------------------------------------- */
+
+/* Remove Material's default admonition-style box */
+
+.md-typeset details {
+  margin: 0.75rem 0 1.5rem 0;
+  padding: 0;
+  border: none;
+  border-left: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+
+/* Style the clickable summary as a simple "Read more" row */
+
+.md-typeset details > summary {
+  position: relative;
+  display: block;
+  padding: 0.4rem 2rem 0.4rem 0;
+  border: none;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+
+/* Remove Material's default pencil/note icon */
+
+.md-typeset details > summary::before {
+  display: none !important;
+}
+
+
+/* Keep the chevron, but make it subtle */
+
+.md-typeset details > summary::after {
+  right: 0;
+  color: var(--md-default-fg-color--light);
+}
+
+
+/* Slightly emphasize the summary when hovered */
+
+.md-typeset details > summary:hover {
+  color: var(--md-accent-fg-color);
+}
+
+
+/* Don't show the Material box styling when expanded */
+
+.md-typeset details[open] {
+  border: none;
+  background: transparent;
+}
+
+
+/* Give the expanded content some breathing room */
+
+.md-typeset details[open] > :not(summary) {
+  margin-top: 1rem;
+}
+
+
+/* Preserve a visible keyboard focus indicator */
+
+.md-typeset details > summary:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
