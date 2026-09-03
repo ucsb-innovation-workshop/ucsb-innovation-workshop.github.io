@@ -3,7 +3,9 @@
 /* ================================================== */
 
 
-/* Section headings */
+/* -------------------------------------------------- */
+/* Section headings                                    */
+/* -------------------------------------------------- */
 
 .md-typeset h1,
 .md-typeset h2,
@@ -16,71 +18,113 @@
 /* Collapsible history sections                        */
 /* -------------------------------------------------- */
 
-/* Remove the box around collapsible admonitions */
+/* Remove the Material admonition box */
 
 .md-typeset details.admonition {
-  margin: 0 0 2rem 0;
+  margin: 0 0 2.5rem 0;
   padding: 0;
-  border: none;
+  border: 0 !important;
+  border-left: 0 !important;
   border-radius: 0;
-  background: transparent;
-  box-shadow: none;
+  background: transparent !important;
+  box-shadow: none !important;
 }
 
 
-/* Make the title look like a quiet "read more" link */
+/* Remove Material's blue title bar */
 
-.md-typeset details.admonition > summary {
+.md-typeset details.admonition > summary.admonition-title {
   margin: 0;
-  padding: 0.15rem 0;
-  border: none;
-  background: transparent;
+  padding: 0.15rem 0 0.25rem 0;
+
+  border: 0 !important;
+  border-radius: 0;
+  background: transparent !important;
+  box-shadow: none !important;
 
   color: var(--md-default-fg-color--light);
   font-size: 0.72rem;
   font-weight: 500;
+  line-height: 1.5;
+
+  cursor: pointer;
 }
 
 
-/* Remove the default admonition icon */
+/* Remove the blue pencil / note icon */
 
-.md-typeset details.admonition > summary::before {
-  display: none;
+.md-typeset details.admonition > summary.admonition-title::before {
+  display: none !important;
 }
 
 
-/* Remove the colored background from the summary */
+/* Remove Material's default disclosure arrow */
 
-.md-typeset details.admonition > summary {
-  box-shadow: none;
+.md-typeset details.admonition > summary.admonition-title::after {
+  display: none !important;
 }
 
 
-/* Use the accent color for the disclosure arrow */
+/* Create a simple, subtle arrow */
 
-.md-typeset details.admonition > summary::after {
+.md-typeset details.admonition > summary.admonition-title::after {
+  content: "→";
+  display: inline-block !important;
+
+  margin-left: 0.4rem;
+
+  color: var(--md-accent-fg-color);
+  font-weight: 500;
+}
+
+
+/* Hover state */
+
+.md-typeset details.admonition > summary.admonition-title:hover {
   color: var(--md-accent-fg-color);
 }
 
 
-/* Hover */
+/* Keyboard focus */
 
-.md-typeset details.admonition > summary:hover {
-  color: var(--md-accent-fg-color);
+.md-typeset details.admonition > summary.admonition-title:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
 }
 
 
-/* Content spacing */
+/* -------------------------------------------------- */
+/* Expanded content                                    */
+/* -------------------------------------------------- */
 
-.md-typeset details.admonition[open] > :not(summary) {
+.md-typeset details.admonition[open] {
+  border: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+
+/* Give the article a little breathing room after
+   the "read more" line */
+
+.md-typeset details.admonition[open] > :not(summary):first-of-type {
   margin-top: 1rem;
 }
 
 
-/* Keep historical sections separated by whitespace,
-   rather than horizontal rules */
+/* -------------------------------------------------- */
+/* History page spacing                                */
+/* -------------------------------------------------- */
+
+/* Pull the collapsible slightly closer to its heading */
 
 .md-typeset h2 + details.admonition {
-  margin-top: -0.5rem;
-  margin-bottom: 2.5rem;
+  margin-top: -0.35rem;
+}
+
+
+/* Don't put a giant gap between historical sections */
+
+.md-typeset h2 + details.admonition {
+  margin-bottom: 2.25rem;
 }
