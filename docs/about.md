@@ -78,8 +78,6 @@ The Innovation Workshop grew out of the same need for accessible, shared fabrica
 
 By **2016**, CNSI documentation was already identifying the **Microfluidics Lab and Innovation Workshop** together as shared facilities, with Dave Bothman overseeing both.
 
-[CNSI: Core Lab Access Instructions for Outside Users](https://www.cnsi.ucsb.edu/sites/default/files/2021-11/cnsi-core-labs-access-instructions-for-outside-users.pdf)
-
 The two facilities had complementary purposes.
 
 The **Microfluidics Lab**, located in **Elings 3430**, focused on microfluidic fabrication and related laboratory processes. The **Innovation Workshop**, located in **Elings 2442 and 2448**, provided a more general-purpose environment for rapid prototyping and fabrication.
@@ -87,8 +85,6 @@ The **Microfluidics Lab**, located in **Elings 3430**, focused on microfluidic f
 By this point, the Workshop was moving beyond the specialized world of microfluidics. Its purpose was broader: provide researchers, students, and emerging companies with a place where they could rapidly build, modify, and test physical ideas.
 
 Historical documentation from the period shows the Innovation Workshop containing mechanical and electronic assembly tools, a CNC router, bandsaw, drill press, laser cutter, 3D scanner, and 3D printers, while the Microfluidics Lab contained both specialized microfluidic equipment and additional fabrication tools.
-
-[CNSI / BioPACIFIC: About the Workshops](https://bpm-wiki.cnsi.ucsb.edu/dokuwiki/doku.php?id=about_the_workshops)
 
 The two spaces were therefore not competing facilities. They were two expressions of the same philosophy:
 
@@ -119,31 +115,15 @@ Together, the spaces gave researchers a way to move much more quickly from an id
 
 ---
 
-## The Workshop as an Enabler of Research
-
-The distinction between the two facilities was never absolute.
-
-The Microfluidics Lab contained equipment useful for many forms of fabrication, while the Innovation Workshop increasingly acquired capabilities that could be useful to microfluidics researchers.
-
-Historical documentation shows the Microfluidics Lab in 3430 containing not only PDMS-processing equipment but also 3D printers, laser cutters, digital microscopes, and CNC equipment.
-
-Meanwhile, the Innovation Workshop in 2442 and 2448 contained tools for mechanical and electronic assembly, CNC routing, laser cutting, 3D scanning, and additive manufacturing.
-
-[CNSI / BioPACIFIC: About the Workshops](https://bpm-wiki.cnsi.ucsb.edu/dokuwiki/doku.php?id=about_the_workshops)
-
-This overlap was ultimately a strength.
-
-Rather than forcing every project into a particular category, users could choose the equipment and expertise that best matched the problem they were trying to solve.
-
----
-
 ## COVID-19 and the Workshop Wizards
 
 The role of the Workshop changed again during the COVID-19 pandemic.
 
-Before the pandemic, the shared facilities served approximately **200 users from 40 research groups and CNSI incubator companies**.
+Before the pandemic, the shared facilities served approximately **300 users from 90 research groups and CNSI incubator companies**.
 
 When access to campus laboratories was restricted in **2020**, CNSI staff adapted the Workshop so that users could submit designs and have parts fabricated for them rather than needing to enter the facility themselves.
+
+When PPE was in short supply due to global supply chain issues, we utilized our 3D printers to make lightweight face shields for the campus.
 
 [UCSB: Printing Protection](https://news.ucsb.edu/2020/019838/printing-protection)
 
@@ -176,26 +156,6 @@ The value of a shared fabrication facility is not simply the machines themselves
 > **Design → Fabrication → Testing → Redesign → Fabrication**
 
 That cycle is at the heart of modern rapid prototyping.
-
----
-
-## The Two Facilities Before 2024
-
-For many years, the physical organization of the facilities was relatively straightforward:
-
-| Room | Facility | Primary Role |
-| --- | --- | --- |
-| **Elings 3430** | Microfluidics Lab | Microfluidics fabrication and specialized laboratory fabrication |
-| **Elings 2442** | Innovation Workshop | Rapid prototyping and general fabrication |
-| **Elings 2448** | Innovation Workshop | Rapid prototyping, additive manufacturing, and related fabrication |
-
-This arrangement reflected the history of how the facilities had developed.
-
-The Microfluidics Lab had started with a specific problem — making microfluidics fabrication accessible outside the cleanroom — while the Innovation Workshop had expanded toward general-purpose prototyping and making.
-
-Over time, however, the capabilities of the two spaces increasingly overlapped.
-
-The distinction between "microfluidics" and "innovation" no longer described everything happening in either room.
 
 ---
 
@@ -233,7 +193,7 @@ The grant supports a series of hands-on workshops for **3rd- through 8th-grade s
 
 Participants use tools in the Innovation Workshop — including **3D printers, laser cutters, CNC equipment, microscopes, and soldering tools** — to create something of their own.
 
-The program also connects the workshop experience with the larger UCSB campus. Students can visit facilities such as the REEF touch tanks, UCSB Library, and Nanofab, while members of Los Ingenieros provide mentorship and encouragement throughout the day.
+The program also connects the workshop experience with the larger UCSB campus. Students visit additional CNSI Facilities, as well as the REEF Touch Tanks over by Campys Point, while members of Los Ingenieros provide mentorship and encouragement throughout the day.
 
 ### From Grant to Reality
 
@@ -253,9 +213,7 @@ That distinction is important.
 
 The goal is not simply to introduce children to STEM careers. It is to help them see themselves as people who can participate in those careers.
 
-The first visit was only the beginning. The Uplift Central Coast grant supports **nine Future Makers field trips**, bringing students from **Lompoc, Santa Maria, and Santa Paula** to UCSB.
-
-[CNSI: Future Makers Program](https://www.cnsi.ucsb.edu/news/all/2025/cnsi-innovation-workshop-supports-future-makers-uplift-central-coast-catalyst)
+The first visit was only the beginning. The Uplift Central Coast grant supported **nine Future Makers field trips**, bringing students from **Lompoc, Santa Maria, and Santa Paula** to UCSB.
 
 Future Makers represents a natural extension of the Innovation Workshop's history.
 
@@ -332,32 +290,8 @@ Rapid prototyping, 3D printing, microfluidics fabrication, laser cutting, electr
 
 Manual machining, hand tools, mechanical fabrication, and waterjet cutting.
 
----
-
-# Where We Are Today
-
-The Innovation Workshop of today is very different from the Microfluidics Lab that occupied Elings 3430 when the facility was established.
-
-But the evolution has been remarkably continuous.
-
-The original Microfluidics Lab was created because researchers needed a more accessible way to fabricate experimental devices.
-
-The Innovation Workshop expanded that idea to rapid prototyping and general fabrication.
-
-The **2018** expansion brought significant new additive manufacturing, electronics, and prototyping capabilities.
-
-The **2020** pandemic demonstrated that the Workshop could provide fabrication as a service, not simply access to machines, and helped establish the Workshop Wizards as an important part of the facility.
-
-And the **2024** reorganization brought the two branches of that history together.
-
-Today, the distinction between "microfluidics" and "innovation" is largely historical.
-
-The Microfluidics Lab may be gone **by name**, but its tools, techniques, and philosophy live on inside the Innovation Workshop.
-
-What began as a specialized facility for making tiny channels for fluids has become a much broader resource for turning ideas into physical things.
-
-Whether the goal is a microfluidic device, a 3D-printed prototype, a machined component, an electronic assembly, a laser-cut structure, or something that does not yet have a name, the mission is the same:
 
 > **Build it. Test it. Learn from it. Make it better.**
 
 That is the Innovation Workshop.
+
