@@ -13,8 +13,8 @@
   color: #ff9800;
 }
 
-.md-typeset details + h2 {
-  margin-top: 0.75rem;
+.md-typeset h2 {
+  margin-top: 0.75rem !important;
 }
 
 
