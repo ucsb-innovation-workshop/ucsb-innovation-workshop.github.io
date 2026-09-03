@@ -10,8 +10,10 @@ The names and rooms have changed over the years, but the underlying mission has 
 
 ---
 
+## From CNSI to Elings Hall
+
 <details>
-<summary><strong>From CNSI to Elings Hall</strong></summary>
+<summary>How Elings Hall and the CNSI established the foundation for shared research facilities</summary>
 
 The story begins with the creation of the California Institutes for Science and Innovation in **2000**, which included the California NanoSystems Institute at UC Santa Barbara and UCLA.
 
@@ -31,8 +33,10 @@ That philosophy would eventually lead to the creation of the Microfluidics Lab a
 
 ---
 
+## The Microfluidics Lab
+
 <details>
-<summary><strong>The Microfluidics Lab</strong></summary>
+<summary>From cleanroom bottleneck to an accessible shared fabrication facility</summary>
 
 Before the Microfluidics Lab existed, UCSB researchers working with microfluidic devices often relied on the campus cleanroom and the semiconductor and MEMS fabrication infrastructure that had developed around it.
 
@@ -78,8 +82,10 @@ That idea — **make sophisticated fabrication accessible to more people** — w
 
 ---
 
+## The Innovation Workshop Emerges
+
 <details>
-<summary><strong>The Innovation Workshop Emerges</strong></summary>
+<summary>How the Workshop grew alongside the Microfluidics Lab</summary>
 
 The Innovation Workshop grew out of the same need for accessible, shared fabrication resources.
 
@@ -101,8 +107,10 @@ The two spaces were therefore not competing facilities. They were two expression
 
 ---
 
+## The 2018 Expansion
+
 <details>
-<summary><strong>The 2018 Expansion</strong></summary>
+<summary>A major expansion brought new rapid-prototyping and additive manufacturing capabilities</summary>
 
 A major expansion came through **California Assembly Bill 2664**, which provided **$22 million** across the University of California system to expand innovation and entrepreneurship infrastructure.
 
@@ -127,8 +135,10 @@ Together, the spaces gave researchers a way to move much more quickly from an id
 
 ---
 
+## COVID-19 and the Workshop Wizards
+
 <details>
-<summary><strong>COVID-19 and the Workshop Wizards</strong></summary>
+<summary>How the pandemic changed the Workshop and helped shape the Workshop Wizards</summary>
 
 The role of the Workshop changed again during the COVID-19 pandemic.
 
@@ -156,8 +166,10 @@ The program transformed the Workshop into more than a collection of machines. It
 
 ---
 
+## From Microfluidics to Rhinoceros Stents
+
 <details>
-<summary><strong>From Microfluidics to Rhinoceros Stents</strong></summary>
+<summary>An unusual project demonstrates the power of rapid prototyping</summary>
 
 One of the clearest examples of what the combined facilities could accomplish came from an unusual collaboration involving a black rhinoceros named Layla.
 
@@ -177,8 +189,10 @@ That cycle is at the heart of modern rapid prototyping.
 
 ---
 
+## 2024: A New Chapter
+
 <details>
-<summary><strong>2024: A New Chapter</strong></summary>
+<summary>The Microfluidics Lab and Innovation Workshop become one fabrication ecosystem</summary>
 
 In the **summer of 2024**, Elings **2448** was converted into an **Incubator Lab**.
 
@@ -198,8 +212,10 @@ So we reorganized the facilities around their current capabilities rather than t
 
 ---
 
+## Future Makers: Bringing Making to the Next Generation
+
 <details>
-<summary><strong>Future Makers: Bringing Making to the Next Generation</strong></summary>
+<summary>Extending the Workshop's mission to local K–12 students</summary>
 
 The Innovation Workshop's mission to make fabrication accessible does not stop at UCSB's research community. In **2025**, that mission expanded beyond the university through the creation of the **Future Makers Program**, a partnership between the CNSI Innovation Workshop and **Los Ingenieros**, a UCSB student organization dedicated to mentoring and inspiring future Latin@ STEM graduates.
 
