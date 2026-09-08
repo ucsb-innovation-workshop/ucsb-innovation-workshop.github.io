@@ -12,8 +12,8 @@ The resin used in the FormLabs 3D printers is considered hazardous. Gloves are t
 
 ## Specifications
 
-**Build Volume:**  \
-**Layer Thickness:** \
+**Build Volume:**  14.5 x 14.5 x 17.5 cm\
+**Layer Thickness:** 25-300 microns \
 **XY Accuracy:**  \
 **Printable Materials:** \
 [Extra Tech Specs](https://formlabs.com/3d-printers/resin/tech-specs/)  
