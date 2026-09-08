@@ -2,9 +2,10 @@
 
 <img src="../../docs/assets/form4image.png" alt="image of a Form 4, 3D Resin Printer" width="35%">    
 
-**Manufacturer:** Formlabs  
-&nbsp;&ensp;&emsp;**Tool Type:** Stereolithographic 3D printer  
-&nbsp;&ensp;&emsp;**Tool Page:**  [Form 4](https://formlabs.com/3d-printers/form-4/#accuracy)  
+
+**Tool Type:** Stereolithographic 3D printer \
+**Manufacturer:** Formlabs  \
+**Tool Page:**  [Form 4](https://formlabs.com/3d-printers/form-4/#accuracy)  
 
 ## Safety Concerns
 The resin used in the FormLabs 3D printers is considered hazardous. Gloves are to be worn for machine setup and post-proccessing. Refer to SDS for disposal and health hazards.
