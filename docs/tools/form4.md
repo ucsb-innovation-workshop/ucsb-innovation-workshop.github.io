@@ -1,10 +1,10 @@
 # Form 4 Resin Printer
 
-<img src="../../docs/assets/form4image.png" alt="image of a Form 4, 3D Resin Printer" width="35%">    
+<img src="../assets/form4image.png" alt="image of a Form 4, 3D Resin Printer" width="35%">    
 
 
-**Tool Type:** Stereolithographic 3D printer \
-**Manufacturer:** Formlabs  \
+**Tool Type:** Stereolithographic 3D printer 
+**Manufacturer:** Formlabs  
 **Tool Page:**  [Form 4](https://formlabs.com/3d-printers/form-4/#accuracy)  
 
 ## Safety Concerns
