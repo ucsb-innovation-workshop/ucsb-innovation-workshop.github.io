@@ -17,12 +17,12 @@ The Form 4 is generally used when the Bambu FDM printers cannot meet the require
 They are extremely versatile, with resins that clear, tough, rigid, flexible, ESD-safe, and more.
 
 Depending on the resin you use, the Form4 printers are great for:  
-- Microfluidic PDMS Molds
-- Vacuum chamber fixturing
-- Light-duty tooling, such as custom wrench sockets
-- Low volume injection molds
-- Autoclavable devices
-- Flexible devices
+- Microfluidic PDMS Molds  
+- Vacuum chamber fixturing  
+- Light-duty tooling, such as custom wrench sockets  
+- Low volume injection molds  
+- Autoclavable devices  
+- Flexible devices  
 - High-aspect ratio and thin-walled devices, where FDM printing would struggle
 
 ## Specifications
