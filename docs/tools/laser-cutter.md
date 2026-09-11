@@ -9,10 +9,10 @@
 ## Safety Concerns  
 This machine uses a class 4 carbon dioxide (CO<sub>2</sub>) laser that emits intense and invisible laser radiation. The direct radiation or even diffuse reflected radiation is dangerous!  
 
-*  NEVER leave the laser machine alone when running a job. If you do need to leave, make sure there is someone else nearby who is aware that it is on and cutting.  
-*  The machine door must be left open while you are away if no one is nearby to keep watch.  
-*  Do not store any flammable materials on the inside of the device or in the immediate vicinity of the device.  
-*  If left behind, remove leftover materials before running a job.  
+* NEVER leave the laser machine alone when running a job. If you do need to leave, make sure there is someone else nearby who is aware that it is on and cutting.  
+* The machine door must be left open while you are away if no one is nearby to keep watch.  
+* Do not store any flammable materials on the inside of the device or in the immediate vicinity of the device.  
+* If left behind, remove leftover materials before running a job.  
 *  A fire extinguisher and fire blanket are on the right of the device as the laser beam can ignite flammable materials.  
 *  Metals, particularly copper, silver, gold and un-coated aluminum, cannot be processed with the laser as they causes high reflections of the laser beam.  
 *  Before processing materials the user must verify whether harmful materials can be produced and whether the filter equipment of the exhaust system is suitable for the harmful materials.  
