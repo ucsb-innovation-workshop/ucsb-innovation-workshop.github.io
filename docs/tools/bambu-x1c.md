@@ -4,9 +4,9 @@
 <img src="/assets/bambu-lab-X1C.png" alt="image of a Bambu Lab X1 Carbon, 3D Resin Printer" width="35%">    
 <!-- The image won't render in Preview but it will on the actual website -->
 
-**Tool Type:** FDM 3D printer 
-**Manufacturer:**  Bambu Lab
-**Location:** 3430   
+**Tool Type:** FDM 3D printer   
+**Manufacturer:**  Bambu Lab  
+**Location:** 3430     
 
 ## Safety Concerns  
 Hot plate and nozzle can get dangerously hot, be aware when taking out a print or reaching in after print failure
