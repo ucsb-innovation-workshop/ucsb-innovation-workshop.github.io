@@ -1,6 +1,6 @@
 # Bambu Lab H2D
 
-<img src="/assets/H2D.jpg" alt="image of a Fused Deposition Modeling (FDM) 3D Printer" width="35%">    
+<img src="/assets/H2D.1.jpg" alt="image of a Fused Deposition Modeling (FDM) 3D Printer" width="35%">    
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** Fused Deposition Modeling (FDM) 3D Printer
