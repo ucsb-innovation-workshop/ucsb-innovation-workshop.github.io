@@ -48,7 +48,7 @@ Please refer to our SOP if you need a refresher:
 [Laser Settings for Cutting & Engraving](https://www.thunderlaser.com/laser-settings/co2-laser-machine.html)  
 (Select "Nova" for Machine Model and "DC Glass 80W" for Laser Power) 
 
-[Official Thunder Laser tool page](https://www.thunderlaser.com/products/nova-series.html)
+[Official Thunder Laser tool page](https://www.thunderlaser.com/products/nova-series.html)  
 (Make sure to select Nova 35)
 
 
