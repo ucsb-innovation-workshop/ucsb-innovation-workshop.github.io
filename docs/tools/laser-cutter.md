@@ -28,7 +28,7 @@ non metallic, non reflective, non flammable materials that don't produce harmful
 ## Specifications  
 * **Working area (W x D):** 90 cm x 60 cm or 35.4“ x 23.6”
 * **Max. height of workpiece :** 230 mm or 9“
-* **CO2 Laser power:** up to 100W
+* **CO2 Laser power:** up to 80W
 * **Max. speed:** 1000 mm/s
 * **Laser class:** 4
 * **Resolution:** 500 DPI standard, 1000 DPI with High-Res head
@@ -45,7 +45,11 @@ Please refer to our SOP if you need a refresher:
 ## Additional Resources
 [Prohibited Materials and Why](https://www.thunderlaser.com/laser-wiki/material-applications/materials-not-for-laser-processing.html)  
 
+[Laser Settings for Cutting & Engraving](https://www.thunderlaser.com/laser-settings/co2-laser-machine.html)  
+(Select "Nova" for Machine Model and "DC Glass 80W" for Laser Power) 
 
+[Official Thunder Laser tool page](https://www.thunderlaser.com/products/nova-series.html)
+(Make sure to select Nova 35)
 
 
 
