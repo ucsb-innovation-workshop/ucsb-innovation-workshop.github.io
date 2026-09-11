@@ -27,11 +27,11 @@ Depending on the resin you use, the Form4 printers are great for:
 
 ## Specifications
 
-**Build Volume:**  14.5 x 14.5 x 17.5 cm (L x W x H)  
-**Layer Thickness:** 25-300 microns  
-**XY Accuracy:** ~150 ish microns  
-**Printable Materials:** Standard resin (clear or available colors), Durable resin, Flexible resin  
-[Extra Tech Specs](https://formlabs.com/3d-printers/resin/tech-specs/)  
+* **Build Volume:**  14.5 x 14.5 x 17.5 cm (L x W x H)  
+* **Layer Thickness:** 25-300 microns  
+* **XY Accuracy:** ~150 ish microns  
+* **Printable Materials:** Standard resin (clear or available colors), Durable resin, Flexible resin  
+* [Extra Tech Specs](https://formlabs.com/3d-printers/resin/tech-specs/)  
 
 ## Training Documentation
 **Training is required to use this tool.**  
