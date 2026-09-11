@@ -3,6 +3,7 @@ site_description: Equipment SOPs, Safety, and Guides for CNSI Workshops
 
 theme:
   name: material
+  logo: assets/IW-logo.png
   palette:
       scheme: slate
       primary: teal
