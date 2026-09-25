@@ -9,7 +9,7 @@
 
 ![Haas Super Mini Mill](./tools/haasminimill/haas_mini_mill.jpg)
 
-*Last edited 8/26/22 Haley*
+
 
 ---
 
