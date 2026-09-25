@@ -33,7 +33,7 @@ The Haas Super Mini Mill is a CNC milling machine. Parts can be modeled in SOLID
 ## Training Documentation
 
 - [Haas Super Mini Mill Training SOP](./Haas%20Super%20Mini%20Mill%20Training%20SOP.md)
-- [Haas Mill Setup Checklist](/haas_checklist.md)
+- [Haas Mill Setup Checklist](/docs/SOPs/haas_checklist.md)
 
 ---
 
