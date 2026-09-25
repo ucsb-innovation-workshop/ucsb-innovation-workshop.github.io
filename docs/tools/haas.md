@@ -7,8 +7,7 @@
 | **Description** | CNC milling machine |
 | **Manufacturer** | Haas |
 
-![Haas Super Mini Mill](./tools/haasminimill/haas_mini_mill.jpg)
-
+![Haas Super Mini Mill](./assets/Haas_mini.jpg)
 
 
 ---
