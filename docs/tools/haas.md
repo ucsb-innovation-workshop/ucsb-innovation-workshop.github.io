@@ -7,7 +7,7 @@
 | **Description** | CNC milling machine |
 | **Manufacturer** | Haas |
 
-<img src="/assets/Haas_mini.jpeg" alt="image of Haas Mini Mill" width="35%">  
+<img src="/assets/Haas_mini.jpg" alt="image of Haas Mini Mill" width="35%">  
 
 
 ---
