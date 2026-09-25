@@ -13,7 +13,7 @@ Hot plate and nozzle can get dangerously hot, be aware when taking out a print o
 
 
 ## Typical Use Cases  
-
+* Rapid Prototyping 
 
 
 ## Specifications   
