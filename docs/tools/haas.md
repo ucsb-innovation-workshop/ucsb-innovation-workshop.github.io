@@ -65,10 +65,9 @@ The Haas Super Mini Mill is a CNC milling machine. Parts can be modeled in SOLID
 
 ## Reference Documentation
 
-- [Pre-Install Manual](./tools/haasminimill/haas-pre-install-manual.pdf)
-- [Programming Manual](./tools/haasminimill/haas_mill_programming_manual.pdf)
-- [Probe Training Manual](./tools/haasminimill/haas_mill_wips_probe_training_manual.pdf)
-- [Operators Manual](./tools/haasminimill/mill_operators_manual_96-8200_rev_b_october_2014.pdf)
-- [Programming Workbook](./tools/haasminimill/programming_workbook.pdf)
-- [RS232 File Transfer Documentation](./RS232%20file%20transfer%20documentation.md)
-- [Haas / HSMWorks Intro Text](./tools/haasminimill/nexgen_cam_cnc_book.pdf)
+- [Pre-Install Manual](./assets/haas-pre-install-manual.pdf)
+- [Programming Manual](./assets/haas_mill_programming_manual.pdf)
+- [Probe Training Manual](./assets/haas_mill_wips_probe_training_manual.pdf)
+- [Operators Manual](./assets/mill_operators_manual.pdf)
+- [Programming Workbook](./assets/programming_workbook.pdf)
+
