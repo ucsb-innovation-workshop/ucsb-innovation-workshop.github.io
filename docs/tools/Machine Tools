@@ -1,0 +1,87 @@
+# Machine Tools
+
+## Safety Concerns
+
+## Sequences of Operation
+
+### Bandsaw
+
+#### Documentation
+
+- [RIKON Bandsaw Manual](./tools/rikonbandsaw/https_www.rikontools.com_manuals_10-326.pdf)
+- [RIKON Bandsaw Documentation](./tools/rikonbandsaw/rikon_bandsaw.pdf)
+
+#### Approved Materials
+
+- Ferrous and hard metals (steels, stainless steels, titanium)
+- Non-ferrous metals (aluminum, bronze, brass, copper)
+- Wood
+- Plastics
+
+#### Checklist
+
+1. Adjust the blade guard to be approximately **1/4" above your material**. Twist the rear knob to loosen the guard and move up and down using the upper wheel handle.
+
+2. Turn on the power switch to the motor control box.
+
+3. Select the material category and desired material:
+   - **F1** is for wood
+   - **F2** is for metals (ferrous metals and titanium)
+   - **F3** is for non-ferrous metals
+   - **F4** is for plastics
+
+   **Note:** Stainless steel and titanium require shifting to the low pulley. This can be accomplished by turning the lower handwheel to loosen the tension and shifting the belt. Refer to the diagram located inside the lower saw panel.
+
+4. Press the **F** button to cycle through material presets.
+
+   **Note:** If you choose to change the speeds, this can be done by spinning the dial. Note the original values and restore the settings when finished.
+
+5. Check for adequate room to maneuver the material. The saw is on casters and can be rolled out by disengaging the orange tabs located on the front of the stand.
+
+6. Check that:
+   - The guard is tightened.
+   - The blade speed is appropriate.
+   - There is adequate working room.
+   - No one is in your immediate vicinity.
+
+7. Put on ear protection and turn on the exhaust system.
+
+8. Press the green **ON** button to start the bandsaw. A pushstick is located on the side of the saw for maneuverability. Keep hands out of the path of the blade and at least **3" away** at all times.
+
+9. When the cut is finished, leave the scraps and press the red **OFF** button. Wait for the saw to come to a complete stop, turn off the exhaust system, and then remove any scrap parts.
+
+10. Flip the power switch on the saw unit to the **OFF** position. The display will remain lit for approximately 10 seconds before turning off.
+
+11. Use the shop vac to clean the saw table. Return the table to the upright position, lower the blade guard, roll the saw back, and lock the casters.
+
+---
+
+### Drill Press
+
+#### Documentation
+
+- [Machine Shop Safety Handout](./tools/wen_drill_press/coe_student_machine_shop_safety_handout.pdf)
+- [Drill Press SOP](./tools/precisionsmillingmachine/drill_press_sop.docx)
+
+#### Approved Materials
+
+- Ferrous and hard metals (steels, stainless steels, titanium)
+- Non-ferrous metals (aluminum, bronze, brass, copper)
+- Wood
+- Plastics
+
+---
+
+### Grinder
+
+#### Documentation
+
+- [Grinder SOP](./tools/precisionsmillingmachine/grinder_sop.pdf)
+
+---
+
+### Sander
+
+#### Documentation
+
+- [Sander SOP](./tools/precisionsmillingmachine/sander_sop.docx)
