@@ -37,7 +37,7 @@ The WEN vertical drill press is used for drilling holes in workpieces. Its speed
 
 ## Training Documentation
 
-Review the [Drill Press SOP]( /docs/SOPs/coe_drill_press_sop.docx) before using the machine.
+Review the [Drill Press SOP]( /docs/assets/coe_drill_press_sop.docx) before using the machine.
 
 ---
 
