@@ -3,9 +3,9 @@
 <img src="/assets/Haas_mini.jpg" alt="image of Haas Super Mini Mill" width="35%">    
 <!-- The image won't render in Preview but it will on the actual website -->
 
-**Tool Type:** CNC Milling Machine
-**Manufacturer:** Haas
-**Location:** Elings 3430
+**Tool Type:** CNC Milling Machine  
+**Manufacturer:** Haas  
+**Location:** Elings 3430  
 
 ## Safety Concerns
 
