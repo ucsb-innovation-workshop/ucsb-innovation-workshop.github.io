@@ -1,6 +1,6 @@
 # WEN Vertical Drill Press
 
-<img src="/assets/wen_drill_press.jpg" alt="WEN vertical drill press" width="35%">
+<img src="/docs/assets/wen_drill_press.jpg" alt="WEN vertical drill press" width="35%">
 <!-- Preview: WEN vertical drill press -->
 
 **Tool Type:** Drill press  
