@@ -54,5 +54,7 @@ nav:
           - Plasma Chamber: tools/plasma.md
           - UV Ozone Chamber: tools/uv-ozone.md
           - Convection Ovens: tools/ovens.md
+      - Inspection & Imaging:
+          -Keyence VHX-5000: tools/keyence-vhx-5000.md
   - Lab Safety: safety.md
   - Contact & People: People.md
