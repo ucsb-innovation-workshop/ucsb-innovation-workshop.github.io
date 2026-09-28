@@ -1,6 +1,6 @@
 # Rikon Vertical Bandsaw
 
-<img src="./assets/rikonbandsaw/rikonbandsaw.jpg" alt="Rikon Vertical Bandsaw" width="35%">
+<img src="/docs/assets/rikonbandsaw.jpg" alt="Rikon Vertical Bandsaw" width="35%">
 
 **Tool Type:** Cutting Tool
 **Manufacturer:** Rikon
