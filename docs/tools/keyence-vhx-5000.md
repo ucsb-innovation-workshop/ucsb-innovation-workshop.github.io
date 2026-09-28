@@ -4,7 +4,9 @@
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** Observation / Measurement / Imaging
+
 **Manufacturer:** Keyence
+
 **Location:** Elings 3430
 
 ## Safety Concerns
