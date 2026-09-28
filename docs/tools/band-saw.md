@@ -2,9 +2,9 @@
 
 <img src="/docs/assets/rikonbandsaw.jpg" alt="Rikon Vertical Bandsaw" width="35%">
 
-**Tool Type:** Cutting Tool
-**Manufacturer:** Rikon
-**Location:** Elings 2442
+**Tool Type:** Cutting Tool  
+**Manufacturer:** Rikon  
+**Location:** Elings 2442  
 
 ---
 
