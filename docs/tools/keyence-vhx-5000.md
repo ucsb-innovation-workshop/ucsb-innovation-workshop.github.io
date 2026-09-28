@@ -50,7 +50,7 @@ The motorized objective can be used to image parts with a large depth of field a
 - [VHX-6000 Field of View and Pixel Size Chart](/docs/assets/vhx-6000_field_of_view_and_pixel_size_chart.pdf)
 - [VHX-5000 Intermediate Quick Start Guide](/docs/assets/vhx5000_intermediate_quick_start_guide.pdf)
 - [VHX-5000 Quick Start Guide](/docs/assets/vhx5000_quick_start_guide.pdf)
-- [Exporting Keyence 3D Data to STL](/docs/keyencetostl.md)
+- [Exporting Keyence 3D Data to STL](/docs/assets/keyencetostl.md)
 - [CSV to STL Project Documentation](/docs/assets/acfrogamwjldy3lqrb9ntbov9f7498n7afcxqulox8mbftvjj1jsiq6iw_pku4maizyqegomu833wvrleh29d5w3etfs8bnsifelgy4o3frd7rp8upi8sbvo_2pzg_des4l_cuomc3j5_comcq-f.pdf)  
   *MATLAB script to come*
 - [VHX Lenses](/docs/assets/vhx_lenses.pdf)
