@@ -1,6 +1,6 @@
 # Haas Super Mini Mill
 
-<img src="/assets/Haas_mini.jpg" alt="image of Haas Super Mini Mill" width="35%">    
+<img src="/docs/assets/Haas_mini.jpg" alt="image of Haas Super Mini Mill" width="35%">    
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** CNC Milling Machine  
