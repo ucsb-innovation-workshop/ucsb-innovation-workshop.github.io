@@ -16,10 +16,10 @@ The Form 3 printers are liquid resin stereolithographic 3D printers capable of p
 
 Based on the material and application, some prints will benefit from post process UV curing to strengthen and harden the finished part. See part curing documentation in UV FormCure reference documentation.
 
-The Form 4 is generally used when the Bambu FDM printers cannot meet the required surface finish, material properties, or feature size.
+The Form 3 is generally used when the Bambu FDM printers cannot meet the required surface finish, material properties, or feature size.
 They are extremely versatile, with resins that are clear, tough, rigid, flexible, ESD-safe, and more.
 
-Depending on the resin you use, the Form4 printers are great for:  
+Depending on the resin you use, the Form 3 printers are great for:  
 - Microfluidic PDMS Molds  
 - Vacuum chamber fixturing  
 - Light-duty tooling, such as custom wrench sockets  
@@ -39,12 +39,15 @@ Depending on the resin you use, the Form4 printers are great for:
 **Training is required to use this tool.**  
 
 Please refer to our SOP if you need a refresher:  
-[Form 3 SOP]([https://microfluidics.cnsi.ucsb.edu/wiki/lib/exe/fetch.php?media=form_4_sop.pdf](https://microfluidics.cnsi.ucsb.edu/wiki/lib/exe/fetch.php?media=form3_sop.pdf))
+[Form 3 SOP](https://microfluidics.cnsi.ucsb.edu/wiki/lib/exe/fetch.php?media=form3_sop.pdf)
+
+## Key Differences Between the Form 3 and Form 4
+The Form 4 offers a significant decrease in print speed compared to the Form 3. While the Form 3 uses a laser-based printing process, the Form 4 uses Low Force Display (LFD) technology, allowing it to cure an entire layer at once. This greatly reduces print times, especially for larger parts or batches of multiple parts. As a result, the Form 4 can produce parts much faster while maintaining the high level of detail and surface quality expected from Formlabs SLA printers.
 
 ## Additional Resources
 [Material/Resin Guide](https://formlabs.com/blog/3d-printing-materials/?srsltid=AfmBOorYW8IAwvzcxjSA07cVt5AR1GL8vCtYo5WKG7PrPPrnyydV63U1)
 
-[Design Specifications Guide(Form 3)]([https://formlabs.com/support/Design-specifications-for-3D-models-form-3/](https://formlabs.com/support/Design-specifications-for-3D-models-form-3/))
+[Design Specifications Guide (Form 3)](https://formlabs.com/support/Design-specifications-for-3D-models-form-3/)
 
 [Design specifications Guide(Form 4)](https://formlabs.com/support/Design-specifications-for-3D-models-Form-4-generation/) 
 
