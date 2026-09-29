@@ -1,6 +1,6 @@
 # Wazer Desktop Waterjet Cutter
 
-<img src="/assets/wazer.jpg" alt="image of a Wazer Desktop Waterjet Cutter" width="35%">    
+<img src="/assets/wazer.jpg" alt="image of a Wazer Desktop Waterjet Cutter" width="50%">    
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** CNC Waterjet Cutting Machine
@@ -27,7 +27,9 @@ The Wazer Desktop Waterjet Cutter uses a powerful stream of water and abrasive t
 - **Overall dimensions (W × D × H):** 34 × 26 × 22 in
 - **Max. gantry speed:** 59 ipm
 - **Maximum water flow rate (@ 4000 psi):** 0.5 gallons/min
-- **Power consumption:**
+
+
+**Power consumption:**
   - **Waterjet Main Unit:** 100–240 VAC, 50/60 Hz, 2 A, 200 W
   - **Pump Box:** 110–120 VAC, 60 Hz, 14 A, 1,500 W
 
