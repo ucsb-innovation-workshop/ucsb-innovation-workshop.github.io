@@ -51,6 +51,7 @@ Allowed Materials:
 - Select your tabs and leads. This will prevent vibration/pop-ups, which will jam the waterjet and ruin the cut. This will also improve accuracy. Notes: Usually 2-4 tabs is enough for most materials and thicknesses. For more complex cut geometries, the number of tabs should be increased. Tab thickness should be proportional to material thickness, a good rule of thumb is for your tab thickness to be 30-50% of your material thickness. For very thin materials, we recommend a minimum tab thickness of 0.05“. Tab locations may leave sharp edges along the cut. Avoid placing tabs in areas where dimensional accuracy is critical. Disable leads unless your material is prone to delamination when cutting. 
 - Select the cut quality. This will determine time for each job and the amount of abrasive used. Fine typically provides the best results, although the differences in overall cut quality between settings are generally minimal.
 - Name your file and select "Generate Job File". Upload to the SD card located plugged into either the Waterjet or desktop computer. Eject SD card and plug into Waterjet.
+- Power on waterjet and select file, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
 
 ## Additional Resources
 
