@@ -1,6 +1,6 @@
 # Precision Matthews Milling Machine
 
-<img src="../assets/precisionsmillingmachine.jpg" alt="Precision Matthews milling machine" width="35%">
+<img src="/assets/precisionsmillingmachine.jpg" alt="Precision Matthews milling machine" width="35%">
 
 <!-- Preview: Precision Matthews milling machine -->
 
