@@ -29,12 +29,11 @@ Dr. Brian Dincau: Elings 3205 | bdincau@ucsb.edu | (805) 724-0426 <br>
 [Google Scholar](https://scholar.google.com/citations?user=WIfff18AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/briandincau/)
 
 _Workshop Wizards_ <br>
-Noelia: noeliaquintanar@ucsb.edu
-
-Remy: remywong@ucsb.edu        (Out for Summer) <br>
-Kenneth: kennethkho@ucsb.edu   (Out for Summer) <br>
-Marcos: marcos150@ucsb.edu     (Out for Summer) <br>
-Ava: agraef@ucsb.edu           (Out for Summer) <br>
+Noelia: noeliaquintanar@ucsb.edu  
+Remy: remywong@ucsb.edu         <br>
+Kenneth: kennethkho@ucsb.edu    <br>
+Marcos: marcos150@ucsb.edu      <br>
+Ava: agraef@ucsb.edu            <br>
 
 ##Feedback
 [Innovation Workshop Feedback Form](https://forms.gle/YvvXqV18izy4TumY6)
