@@ -4,7 +4,9 @@
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** CNC Waterjet Cutting Machine
+
 **Manufacturer:** Wazer
+
 **Location:**  Elings Hall 3430
 
 ## Safety Concerns  
