@@ -41,7 +41,7 @@ The Wazer Desktop Waterjet Cutter uses a powerful stream of water and abrasive t
 **Training is required to use this tool.**  
 
 Please refer to our SOP if you need a refresher: 
-[Wazer Waterjet SOP](docs/SOPs/wazerSOP.md)
+[Wazer Waterjet SOP](SOPs/wazerSOP.md)
 
 ## Additional Resources
 [Wazer Product Specs](https://wazer.com/product/)
