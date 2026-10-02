@@ -53,9 +53,9 @@ Brian Dincau found that the following recipe works well for bonding PDMS to PDMS
 
 ## Reference Documentation
 
-- [Harrick Plasma Product Information](/docs/assets/harrick-plasma-product-information-web.pdf)
-- [Plasma Cleaner PDC-32G Manual](/docs/assets/plasma_cleaner_manual_32g.pdf)
-- [Plasma Cleaner Operating Instructions](/docs/assets/ufl_harrick_plasma_operating_instructions.pdf)
-- [Harrick Plasma Cleaner User’s Manual](/docs/assets/harrick-plasma-cleaner-users-manual.pdf)
+- [Harrick Plasma Product Information](../assets/harrick-plasma-product-information-web.pdf)
+- [Plasma Cleaner PDC-32G Manual](../assets/plasma_cleaner_manual_32g.pdf)
+- [Plasma Cleaner Operating Instructions](../assets/ufl_harrick_plasma_operating_instructions.pdf)
+- [Harrick Plasma Cleaner User’s Manual](../assets/harrick-plasma-cleaner-users-manual.pdf)
 
 ---
