@@ -1,6 +1,6 @@
 # Thinky ARE-310 Mixer
 
-<img src="/assets/thinky.png" alt="Thinky ARE-310 Mixer" width="35%">
+<img src="/assets/thinky.jpeg" alt="Thinky ARE-310 Mixer" width="35%">
 
 **Tool Type:** PDMS  
 **Location:** Elings 3430  
