@@ -1,6 +1,6 @@
 # Precision Matthews Lathe
 
-<img src="/assets/lathe.jpg" alt="Precision Matthews Lathe" width="35%">
+<img src="/assets/lathe.png" alt="Precision Matthews Lathe" width="35%">
 
 **Tool Type:** Cutting tool  
 **Location:** Elings 2442  
