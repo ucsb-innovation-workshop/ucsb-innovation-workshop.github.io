@@ -1,6 +1,6 @@
 # Harrick Plasma Chamber PDC-32G
 
-<img src="/docs/assets/1876642.jpg" alt="Harrick Plasma Chamber PDC-32G" width="35%">
+<img src="/assets/1876642.jpg" alt="Harrick Plasma Chamber PDC-32G" width="35%">
 
 **Tool Type:** Surface treatment  
 **Location:** Elings 3430  
