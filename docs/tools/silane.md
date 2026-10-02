@@ -52,6 +52,6 @@ This protocol is intended for gas-phase monolayer deposition of a silane to serv
 
 ## Reference Documentation
 
-- [Trimethylchlorosilane Material Safety Data Sheet](/assets/tmcs_msds.pdf)
+- [Trimethylchlorosilane Material Safety Data Sheet](/docs/assets/tmcs_msds.pdf)
 
 ---
