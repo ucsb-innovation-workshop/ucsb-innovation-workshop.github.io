@@ -29,7 +29,7 @@ The vapor silanization rig is located in the first fume hood on your left when e
 
 ## Training Documentation
 
-- [Vapor Silanization Rig Safe Operating Procedures](/SOPs/vapor_silanation_rig_sop.md)
+- [Vapor Silanization Rig Safe Operating Procedures](/docs/SOPs/vapor_silanation_rig_sop.md)
 
 ---
 
@@ -52,6 +52,6 @@ This protocol is intended for gas-phase monolayer deposition of a silane to serv
 
 ## Reference Documentation
 
-- [Trimethylchlorosilane Material Safety Data Sheet](../assets/tmcs_msds.pdf)
+- [Trimethylchlorosilane Material Safety Data Sheet](/assets/tmcs_msds.pdf)
 
 ---
