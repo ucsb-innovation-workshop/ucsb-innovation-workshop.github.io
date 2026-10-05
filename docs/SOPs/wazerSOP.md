@@ -44,12 +44,21 @@ Allowed Materials:
 ## Cutting with the Wazer Waterjet
 - Open WAM. This is where you will create the toolpath for your job.
 - Upload your DXF or SVG file onto the software.
-- Scale and position your parts: Importing the file may result in a change in dimensions, so double check the measurements are still the same.
-- The grid in the software matches the plastic cut bed in the Wazer. Move your part(s) so that they will fit within your material and correspond to where you want to cut.
-- Select your material from user materials you are working with and select the corresponding thickness. Material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually. If you do not see the material you are cutting, please contact a Wizard.
+- Scale and position your parts:
+    - Importing the file may result in a change in dimensions, so double check the measurements are still the same.
+    - The grid in the software matches the plastic cut bed in the Wazer. Move your part(s) so that they will fit within your material and correspond to where you want to cut.
+- Select your material from user materials you are working with and select the corresponding thickness.
+    - Material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually.
+    - If you do not see the material you are cutting, please contact a Wizard.
 - Select the cutting path offset. This will allow you to control how the kerf will affect your cut. Selecting Outside will cut your part to size as specified in the dxf/svg file, selecting Centerline will cut directly on the lines, and selecting Inside will cut alongside the inner portion of the file's lines.
-- Select your tabs and leads. This will prevent vibration/pop-ups, which will jam the waterjet and ruin the cut. This will also improve accuracy. Notes: Usually 2-4 tabs is enough for most materials and thicknesses. For more complex cut geometries, the number of tabs should be increased. Tab thickness should be proportional to material thickness, a good rule of thumb is for your tab thickness to be 30-50% of your material thickness. For very thin materials, we recommend a minimum tab thickness of 0.05“. Tab locations may leave sharp edges along the cut. Avoid placing tabs in areas where dimensional accuracy is critical. Disable leads unless your material is prone to delamination when cutting. 
-- Select the cut quality. This will determine time for each job and the amount of abrasive used. Fine typically provides the best results, although the differences in overall cut quality between settings are generally minimal.
+- Select your tabs and leads.
+    - This will prevent vibration/pop-ups, which will jam the waterjet and ruin the cut. This will also improve accuracy.
+    - Usually 2-4 tabs is enough for most materials and thicknesses. For more complex cut geometries, the number of tabs should be increased.
+    - Tab thickness should be proportional to material thickness, a good rule of thumb is for your tab thickness to be 30-50% of your material thickness. For very thin materials, we recommend a minimum tab thickness of 0.05“.
+    - Tab locations may leave sharp edges along the cut. Avoid placing tabs in areas where dimensional accuracy is critical.
+    - Disable leads unless your material is prone to delamination when cutting. 
+- Select the cut quality. This will determine time for each job and the amount of abrasive used.
+    - Fine typically provides the best results, although the differences in overall cut quality between settings are generally minimal.
 - Name your file and select "Generate Job File". Upload to the SD card located plugged into either the Waterjet or desktop computer. Eject SD card and plug into Waterjet.
 - Power on waterjet and select file, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
 
