@@ -47,10 +47,13 @@ Allowed Materials:
 - Scale and position your parts:
     - Importing the file may result in a change in dimensions, so double check the measurements are still the same.
     - The grid in the software matches the plastic cut bed in the Wazer. Move your part(s) so that they will fit within your material and correspond to where you want to cut.
+
 - Select your material from user materials you are working with and select the corresponding thickness.
     - Material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually.
     - If you do not see the material you are cutting, please contact a Wizard.
+
 - Select the cutting path offset. This will allow you to control how the kerf will affect your cut. Selecting Outside will cut your part to size as specified in the dxf/svg file, selecting Centerline will cut directly on the lines, and selecting Inside will cut alongside the inner portion of the file's lines.
+
 - Select your tabs and leads.
     - This will prevent vibration/pop-ups, which will jam the waterjet and ruin the cut. This will also improve accuracy.
     - Usually 2-4 tabs is enough for most materials and thicknesses. For more complex cut geometries, the number of tabs should be increased.
