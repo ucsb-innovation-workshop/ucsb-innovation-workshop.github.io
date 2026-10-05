@@ -26,7 +26,7 @@ This tool is plumbed for nitrogen plasma only, which works well for PDMS-to-glas
 
 ## Training Documentation
 
-- [Plasma Cleaner SOP](/docs/assets/ufl_harrick_plasma_operating_instructions.pdf)
+- [Plasma Cleaner SOP](../assets/ufl_harrick_plasma_operating_instructions.pdf)
 
 ---
 
