@@ -28,7 +28,7 @@ If you do not know the correct feeds and speeds, please ask a Workshop Wizard.
 
 ## Training Documentation
 
-* [Bandsaw SOP](./assets/rikonbandsaw/bandsaw-sop.pdf)
+* [Bandsaw SOP](../SOPs/band-sawSOP.md)
 
 ---
 
