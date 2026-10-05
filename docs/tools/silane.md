@@ -29,7 +29,7 @@ The vapor silanization rig is located in the first fume hood on your left when e
 
 ## Training Documentation
 
-- [Vapor Silanization Rig Safe Operating Procedures](/docs/SOPs/vapor_silanation_rig_sop.md)
+- [Vapor Silanization Rig Safe Operating Procedures](../SOPs/vapor_silanation_rig_sop.md)
 
 ---
 
