@@ -11,11 +11,11 @@ The WEN 15-inch floor-standing drill press is located in Elings Hall 2448.
 
 Eye injuries can result from flying chips or broken bits. Sharp tools, chips, and burrs can cause cuts or metal splinters. Cutting tools and parts may cause burns. Moving parts can pinch or entangle clothing, hair, or jewelry. Poor housekeeping creates tripping and cutting hazards for other users. **Do not leave the machine running unattended.**
 
-<img src=". /docs/assets/safetyglasses.png" alt="Safety glasses required" width="100">
-<img src=". /docs/assets/haircover.png" alt="Tie back long hair" width="100">
-<img src=". /docs/assets/apron.png" alt="Protective clothing required" width="100">
-<img src=". /docs/assets/boots.png" alt="Closed-toe shoes required" width="100">
-<img src=". /docs/assets/glovesnot.png" alt="Do not wear gloves" width="100">
+<img src=". /assets/safetyglasses.png" alt="Safety glasses required" width="100">
+<img src=". /assets/haircover.png" alt="Tie back long hair" width="100">
+<img src=". /assets/apron.png" alt="Protective clothing required" width="100">
+<img src=". /assets/boots.png" alt="Closed-toe shoes required" width="100">
+<img src=". /assets/glovesnot.png" alt="Do not wear gloves" width="100">
 
 Wear eye protection, closed-toe shoes, long pants, and protective clothing when using this machine. Tie back long hair and remove jewelry before operating the machine to prevent entanglement.
 
