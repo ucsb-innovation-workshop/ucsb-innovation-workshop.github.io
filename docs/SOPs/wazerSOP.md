@@ -16,6 +16,7 @@
 
 ## Overview
 This training provides an introduction to using and operating the waterjet cutters including:
+
 *  File Types: DXF, SVG
 *  Software: Job Control, WAM Software
 *  Safety: General hazard, Material composition
@@ -35,6 +36,7 @@ This training provides an introduction to using and operating the waterjet cutte
 Always check materials list BEFORE attempting to cut/engrave a material. If unsure contact IW Staff.
 
 Allowed Materials:
+
 *  Thin sheets of metal
 *  Glass and ceramics (will produce larger kerfs)
 *  Plastic (poor finish and will clog filters)
