@@ -57,17 +57,24 @@ Operating WAM to create a toolpath:
     - Wazer Materials Tab: If you are unable to find your allowed material in the "User Materials" tab, the material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually.
     - If you do not see the material you are cutting, please contact a Wizard.
 
-- Select the cutting path offset. This will allow you to control how the kerf will affect your cut. Selecting Outside will cut your part to size as specified in the dxf/svg file, selecting Centerline will cut directly on the lines, and selecting Inside will cut alongside the inner portion of the file's lines.
+- Select the cutting path offset. This will allow you to control how the kerf will affect your cut.
+    - Outside: The tool will cut entirely outside of the file's boundary lines. Best when cutting the perimeter of a part. 
+    - Centerline: Tool cuts on top of the file's boundary lines. Best when cutting slots. 
+    - Inside: The tool will cut entirely inside of the file's boundary lines. Best when cutting out internal holes or parts where the scrap material will be located on the inside of the cut. 
 
-- Select your tabs and leads.
-    - This will prevent vibration/pop-ups, which will jam the waterjet and ruin the cut. This will also improve accuracy.
+- Select your tabs and leads. This will improve accuracy and prevent vibration/pop-ups, which can jam the waterjet and ruin the cut. 
     - Usually 2-4 tabs is enough for most materials and thicknesses. For more complex cut geometries, the number of tabs should be increased.
     - Tab thickness should be proportional to material thickness, a good rule of thumb is for your tab thickness to be 30-50% of your material thickness. For very thin materials, we recommend a minimum tab thickness of 0.05“.
     - Tab locations may leave sharp edges along the cut. Avoid placing tabs in areas where dimensional accuracy is critical.
-    - Disable leads unless your material is prone to delamination when cutting. 
+    - Disable leads unless your material is prone to delamination when cutting.
+
 - Select the cut quality. This will determine time for each job and the amount of abrasive used.
     - Fine typically provides the best results, although the differences in overall cut quality between settings are generally minimal.
+
 - Name your file and select "Generate Job File". Upload to the SD card located plugged into either the Waterjet or desktop computer. Eject SD card and plug into Waterjet.
+
+Operating the Waterjet
+
 - Power on waterjet and select file, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
 
 ## Maintinence
