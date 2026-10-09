@@ -44,14 +44,17 @@ Allowed Materials:
 *  Composites (will delaminate)
 
 ## Cutting with the Wazer Waterjet
-- Open WAM. This is where you will create the toolpath for your job.
-- Upload your DXF or SVG file onto the software.
-- Scale and position your parts:
-    - Importing the file may result in a change in dimensions, so double check the measurements are still the same.
-    - The grid in the software matches the plastic cut bed in the Wazer. Move your part(s) so that they will fit within your material and correspond to where you want to cut.
+Operating WAM to create a toolpath:
 
-- Select your material from user materials you are working with and select the corresponding thickness.
-    - Material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually.
+- Open WAM (Wazercam software).
+- Import your DXF or SVG file into the software.
+- Scale and position your parts:
+    - Importing the file may result in a change in dimensions, so double check the measurements are accurate before proceeding.
+    - The grid in the software matches the plastic cut bed in the Wazer. Move your part(s) so that they will fit within your material and correspond to where you wish to cut.
+
+- Select Material
+    - User Materials Tab: Scroll through the options and choose the material you are cutting and the corresponding thickness.
+    - Wazer Materials Tab: If you are unable to find your allowed material in the "User Materials" tab, the material can also be chosen through the Wazer Materials tab, information on the type and thickness will need to be inputted manually.
     - If you do not see the material you are cutting, please contact a Wizard.
 
 - Select the cutting path offset. This will allow you to control how the kerf will affect your cut. Selecting Outside will cut your part to size as specified in the dxf/svg file, selecting Centerline will cut directly on the lines, and selecting Inside will cut alongside the inner portion of the file's lines.
