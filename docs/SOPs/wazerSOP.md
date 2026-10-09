@@ -75,7 +75,9 @@ Operating WAM to create a toolpath:
 
 Operating the Waterjet
 
-- Power on waterjet and select file, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
+- Power on waterjet
+    - Three switches (hidden switch to flip too) ...... add More detail 
+-   Select file using the arrow keys, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
 
 ## Maintinence
 
