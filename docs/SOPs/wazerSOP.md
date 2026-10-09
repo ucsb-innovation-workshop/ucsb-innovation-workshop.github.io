@@ -5,41 +5,41 @@
 **Location:**  Elings Hall 2442
 
 ## Training Checklist
-- Safety Considerations
-- Materials: Allowed Materials, Prohibited Materials
-- Mounting Materials in the Bed: Polypropylene Plastic Corrugated Bed
-- Cutting
-- Troubleshooting
-- General Material Recipes For Aluminum
-- Thickness, cutting settings
-- Maintenance
+*  Safety Considerations
+*  Materials: Allowed Materials, Prohibited Materials
+*  Mounting Materials in the Bed: Polypropylene Plastic Corrugated Bed
+*  Cutting
+*  Troubleshooting
+*  General Material Recipes For Aluminum
+*  Thickness, cutting settings
+*  Maintenance
 
 ## Overview
 This training provides an introduction to using and operating the waterjet cutters including:
-- File Types: DXF, SVG
-- Software: Job Control, WAM Software
-- Safety: General hazard, Material composition
-- Waterjet Use
-- Maintenance: adding more abrasive, throwing away used abrasive, collecting used abrasive
+*  File Types: DXF, SVG
+*  Software: Job Control, WAM Software
+*  Safety: General hazard, Material composition
+*  Waterjet Use
+*  Maintenance: adding more abrasive, throwing away used abrasive, collecting used abrasive
 
 ## Safety Considerations
-- Always wear safety glasses when using the machine.
-- Always work with the machine cover closed.
-- NEVER leave the waterjet alone when running a job.
-- The machine door must be left open while you are away.
-- Ensure that the abrasive tanks are full.
-- Remove leftovers of used abrasive in the used abrasive bucket before running a new job.
-- Confirm that there are no leaks when running a job.
+*  Always wear safety glasses when using the machine.
+*  Always work with the machine cover closed.
+*  NEVER leave the waterjet alone when running a job.
+*  The machine door must be left open while you are away.
+*  Ensure that the abrasive tanks are full.
+*  Remove leftovers of used abrasive in the used abrasive bucket before running a new job.
+*  Confirm that there are no leaks when running a job.
 
 ## Materials
 Always check materials list BEFORE attempting to cut/engrave a material. If unsure contact IW Staff.
 
 Allowed Materials:
-- Thin sheets of metal
-- Glass and ceramics (will produce larger kerfs)
-- Plastic (poor finish and will clog filters)
-- Rubber (poor finish and will clog filters)
-- Composites (will delaminate)
+*  Thin sheets of metal
+*  Glass and ceramics (will produce larger kerfs)
+*  Plastic (poor finish and will clog filters)
+*  Rubber (poor finish and will clog filters)
+*  Composites (will delaminate)
 
 ## Cutting with the Wazer Waterjet
 - Open WAM. This is where you will create the toolpath for your job.
@@ -64,6 +64,9 @@ Allowed Materials:
     - Fine typically provides the best results, although the differences in overall cut quality between settings are generally minimal.
 - Name your file and select "Generate Job File". Upload to the SD card located plugged into either the Waterjet or desktop computer. Eject SD card and plug into Waterjet.
 - Power on waterjet and select file, follow prompted instructions and set up the tool. Ensure that a dry run is done before cutting and then close the hood and cut!
+
+## Maintinence
+
 
 ## Additional Resources
 
