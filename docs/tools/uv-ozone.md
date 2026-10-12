@@ -1,6 +1,6 @@
 # Novascan Ozone Cleaner
 
-<img src="/assets/novascan_ozone_cleaner.jpg" alt="Novascan UV ozone cleaner" width="35%">
+<img src="/assets/ozone.jpeg" alt="Novascan UV ozone cleaner" width="35%">
 <!-- The image won't render in Preview but it will on the actual website -->
 
 **Tool Type:** Surface Treatment  
