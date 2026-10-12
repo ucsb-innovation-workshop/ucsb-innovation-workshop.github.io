@@ -40,7 +40,7 @@ Select the **CAM** tab in the SOLIDWORKS CommandManager.
 
 HSMWorks is a separate plug-in from SOLIDWORKS CAM and SOLIDWORKS CAM TBM. Its CAM tab will not appear unless HSMWorks is installed and enabled.
 
-![HSMWorks CAM tab](/docs/assets/cam_highlight_real.png)
+![HSMWorks CAM tab](../assets/cam_highlight_real.png)
 
 The CommandManager will display the HSMWorks functions.
 
@@ -52,31 +52,31 @@ Select **New Job** to:
 - Define the raw stock dimensions.
 - Specify the work coordinate system and part zero.
 
-![New Job settings](/docs/assets/job.png)
+![New Job settings](../assets/job.png)
 
 The source example uses the back-left corner for part zero.
 
-![Example part-zero location](/docs/assets/annotation_2020-09-08_105857.png)
+![Example part-zero location](../assets/annotation_2020-09-08_105857.png)
 
 ### 3. Select a Machining Operation
 
 Choose the desired operation from the **2D** or **3D** machining menu.
 
-![2D and 3D machining menus](/docs/assets/2d_and_3d_machining.png)
+![2D and 3D machining menus](../assets/2d_and_3d_machining.png)
 
 **2D operations** include slotting, facing, pocketing, and chamfering.
 
-![2D operations](/docs/assets/2d.png)
+![2D operations](../assets/2d.png)
 
 **3D operations** include adaptive clearing and machining that requires simultaneous motion along all three axes.
 
-![3D operations](/docs/assets/3d.png)
+![3D operations](../assets/3d.png)
 
 ### 4. Configure the Operation
 
 #### Tool and Cutting Parameters
 
-![Tool settings](/docs/assets/tool.png)
+![Tool settings](../assets/tool.png)
 
 - Select a tool from the tool library.
 - Edit the tool definition as necessary to match the actual cutter and holder, including flute count, geometry, and stickout.
@@ -97,7 +97,7 @@ Choose the desired operation from the **2D** or **3D** machining menu.
 
 #### Machining Passes
 
-![Stock-to-leave settings](/docs/assets/stock_jto_leave.png)
+![Stock-to-leave settings](../assets/stock_jto_leave.png)
 
 - Review automatically populated cutting parameters.
 - Set stepdowns and multiple passes appropriate to the setup.
