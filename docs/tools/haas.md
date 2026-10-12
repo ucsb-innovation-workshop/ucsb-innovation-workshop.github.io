@@ -57,7 +57,7 @@ If you believe you have a strong need to use this tool, please contact the lab m
 
 Please refer to the following documentation if you have been approved to use the Haas:
 
-* [Haas Super Mini Mill Training SOP](./Haas%20Super%20Mini%20Mill%20Training%20SOP.md)
+* [Haas Super Mini Mill Training SOP](/docs/SOPs/Haas_SOP.md)
 * [Haas Mill Setup Checklist](/docs/SOPs/haas_checklist.md)
 
 ## Additional Resources
