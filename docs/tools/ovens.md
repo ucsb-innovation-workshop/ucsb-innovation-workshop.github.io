@@ -53,7 +53,7 @@ The Lindberg Blue M convection oven uses a motorized fan to circulate air throug
 
 Please refer to our SOP if you need a refresher:
 
-- [Laboratory Oven SOP](lab-oven-SOP)
+- [Laboratory Oven SOP](../SOPs/ovens_SOP.md)
 
 ### Operating Procedures — Both Ovens
 
