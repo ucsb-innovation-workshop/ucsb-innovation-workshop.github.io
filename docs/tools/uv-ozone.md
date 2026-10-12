@@ -36,9 +36,9 @@ The cleaner uses 185 nm and 254 nm ultraviolet light. In the presence of oxygen,
 
 Please refer to our SOP if you need a refresher:
 
-- [Ozone Cleaner Training SOP](ozone_cleaner_sop)
+- [Ozone Cleaner Training SOP](../SOPs/ozone_cleaner_sop.md)
 
 ## Additional Resources
 
-- [User Guide](/assets/novascan_uv-ozone_cleaner_user_guide.pdf)
-- [UV Ozone Cleaner Checklist](/assets/novascan_uv_ozone_checklist_r2.docx)
+- [User Guide](../assets/novascan_uv-ozone_cleaner_user_guide.pdf)
+- [UV Ozone Cleaner Checklist](../assets/novascan_uv_ozone_checklist_r2.docx)
