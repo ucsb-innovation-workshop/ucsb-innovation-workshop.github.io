@@ -57,14 +57,14 @@ If you believe you have a strong need to use this tool, please contact the lab m
 
 Please refer to the following documentation if you have been approved to use the Haas:
 
-* [Haas Super Mini Mill Training SOP](/docs/SOPs/Haas_SOP.md)
-* [Haas Mill Setup Checklist](/docs/SOPs/haas_checklist.md)
+* [Haas Super Mini Mill Training SOP](../SOPs/Haas_SOP.md)
+* [Haas Mill Setup Checklist](../SOPs/haas_checklist.md)
 
 ## Additional Resources
 
-* [Pre-Install Manual](/docs/assets/haas-pre-install-manual.pdf)
-* [Programming Manual](/docs/assets/haas_mill_programming_manual.pdf)
-* [Probe Training Manual](/docs/assets/haas_mill_wips_probe_training_manual.pdf)
-* [Operators Manual](/docs/assets/mill_operators_manual.pdf)
-* [Programming Workbook](/docs/assets/programming_workbook.pdf)
+* [Pre-Install Manual](../assets/haas-pre-install-manual.pdf)
+* [Programming Manual](../assets/haas_mill_programming_manual.pdf)
+* [Probe Training Manual](../assets/haas_mill_wips_probe_training_manual.pdf)
+* [Operators Manual](../assets/mill_operators_manual.pdf)
+* [Programming Workbook](../assets/programming_workbook.pdf)
 
